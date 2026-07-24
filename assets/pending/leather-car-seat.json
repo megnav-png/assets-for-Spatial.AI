@@ -1,0 +1,76 @@
+{
+  "assetId": "leather-car-seat",
+  "displayName": "leather car seat",
+  "materialFamily": "leather",
+  "scale": 0.526853182215164,
+  "realWorldSizeMeters": 1,
+  "triangles": 19995,
+  "bounds": {
+    "min": [
+      -0.950164974,
+      -0.382558078,
+      -0.441963017
+    ],
+    "max": [
+      0.947897017,
+      0.379000098,
+      0.440382063
+    ]
+  },
+  "triangleBudget": 20000,
+  "quality": {
+    "checks": [
+      {
+        "id": "triangle-budget",
+        "label": "Triangle budget",
+        "status": "pass",
+        "detail": "19,995 triangles (soft 20,000, hard 120,000)"
+      },
+      {
+        "id": "file-size",
+        "label": "Download size",
+        "status": "pass",
+        "detail": "0.3 MB"
+      },
+      {
+        "id": "manifold",
+        "label": "Manifold topology",
+        "status": "warn",
+        "detail": "0.1% open edges, 230 self-intersecting"
+      },
+      {
+        "id": "degenerate",
+        "label": "Degenerate triangles",
+        "status": "pass",
+        "detail": "None"
+      },
+      {
+        "id": "vertex-sharing",
+        "label": "Vertex sharing",
+        "status": "pass",
+        "detail": "1.03× raw:welded"
+      },
+      {
+        "id": "proportions",
+        "label": "Proportions",
+        "status": "pass",
+        "detail": "1.90 × 0.76 × 0.88"
+      },
+      {
+        "id": "parts",
+        "label": "Mesh parts",
+        "status": "pass",
+        "detail": "1 primitive"
+      }
+    ],
+    "clean": true
+  },
+  "optimisation": {
+    "beforeBytes": 4579644,
+    "afterBytes": 362496,
+    "trianglesBefore": 119932,
+    "trianglesAfter": 19995
+  },
+  "meshyTaskId": "019f95c5-989a-7235-83dc-dd50b753a38a",
+  "generatedAt": "2026-07-24T20:16:22.513Z"
+}
