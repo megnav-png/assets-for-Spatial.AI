@@ -87,9 +87,9 @@
         0.428247094
       ]
     },
-    "materialFamily": "gem",
+    "materialFamily": "glass",
     "triangleBudget": 20000,
-    "instanceKey": "crystal-artifact:gem"
+    "instanceKey": "crystal-artifact:glass"
   },
   {
     "id": "car-paint",
