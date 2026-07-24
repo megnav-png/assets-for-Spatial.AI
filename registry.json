@@ -44,5 +44,28 @@
     "materialFamily": "metal",
     "triangleBudget": 20000,
     "instanceKey": "alloy-wheel:metal"
+  },
+  {
+    "id": "leather-car-seat",
+    "displayName": "leather car seat",
+    "modelPath": "assets/models/leather-car-seat.glb",
+    "scale": 0.526853182215164,
+    "realWorldSizeMeters": 1,
+    "triangles": 19995,
+    "bounds": {
+      "min": [
+        -0.950164974,
+        -0.382558078,
+        -0.441963017
+      ],
+      "max": [
+        0.947897017,
+        0.379000098,
+        0.440382063
+      ]
+    },
+    "materialFamily": "leather",
+    "triangleBudget": 20000,
+    "instanceKey": "leather-car-seat:leather"
   }
 ]
