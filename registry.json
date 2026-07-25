@@ -98,5 +98,28 @@
     "materialFamily": "metal",
     "triangleBudget": 18000,
     "instanceKey": "logo:metal"
+  },
+  {
+    "id": "watch-tossit1",
+    "displayName": "watch tissot1",
+    "modelPath": "assets/models/watch-tossit1.glb",
+    "scale": 0.10535230812684546,
+    "realWorldSizeMeters": 0.2,
+    "triangles": 19042,
+    "bounds": {
+      "min": [
+        -0.551232994,
+        -0.388996065,
+        -0.950205147
+      ],
+      "max": [
+        0.558007002,
+        0.386906117,
+        0.948187053
+      ]
+    },
+    "materialFamily": "metal",
+    "triangleBudget": 18000,
+    "instanceKey": "watch-tossit1:metal"
   }
 ]
