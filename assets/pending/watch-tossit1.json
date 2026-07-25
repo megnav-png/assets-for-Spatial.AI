@@ -1,0 +1,76 @@
+{
+  "assetId": "watch-tossit1",
+  "displayName": "watch tissot1",
+  "materialFamily": "metal",
+  "scale": 0.10535230812684546,
+  "realWorldSizeMeters": 0.2,
+  "triangles": 19042,
+  "bounds": {
+    "min": [
+      -0.551232994,
+      -0.388996065,
+      -0.950205147
+    ],
+    "max": [
+      0.558007002,
+      0.386906117,
+      0.948187053
+    ]
+  },
+  "triangleBudget": 18000,
+  "quality": {
+    "checks": [
+      {
+        "id": "triangle-budget",
+        "label": "Triangle budget",
+        "status": "pass",
+        "detail": "19,042 triangles (soft 20,000, hard 120,000)"
+      },
+      {
+        "id": "file-size",
+        "label": "Download size",
+        "status": "pass",
+        "detail": "1.2 MB"
+      },
+      {
+        "id": "manifold",
+        "label": "Manifold topology",
+        "status": "warn",
+        "detail": "0.1% open edges, 11 self-intersecting"
+      },
+      {
+        "id": "degenerate",
+        "label": "Degenerate triangles",
+        "status": "pass",
+        "detail": "None"
+      },
+      {
+        "id": "vertex-sharing",
+        "label": "Vertex sharing",
+        "status": "warn",
+        "detail": "3.58× raw:welded — geometry is split per face"
+      },
+      {
+        "id": "proportions",
+        "label": "Proportions",
+        "status": "pass",
+        "detail": "1.11 × 0.78 × 1.90"
+      },
+      {
+        "id": "parts",
+        "label": "Mesh parts",
+        "status": "pass",
+        "detail": "1 primitive"
+      }
+    ],
+    "clean": true
+  },
+  "optimisation": {
+    "beforeBytes": 6611264,
+    "afterBytes": 1206596,
+    "trianglesBefore": 117959,
+    "trianglesAfter": 19042
+  },
+  "meshyTaskId": "019f99f5-4668-73ae-b9f9-47bf65253499",
+  "generatedAt": "2026-07-25T15:46:54.696Z"
+}
