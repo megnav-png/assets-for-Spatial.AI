@@ -46,29 +46,6 @@
     "instanceKey": "alloy-wheel:metal"
   },
   {
-    "id": "crystal-artifact",
-    "displayName": "crystal artifact",
-    "modelPath": "assets/models/crystal-artifact.glb",
-    "scale": 0.1316140483502222,
-    "realWorldSizeMeters": 0.25,
-    "triangles": 19996,
-    "bounds": {
-      "min": [
-        -0.430442005,
-        -0.950729132,
-        -0.43077302
-      ],
-      "max": [
-        0.428454012,
-        0.948764145,
-        0.428247094
-      ]
-    },
-    "materialFamily": "glass",
-    "triangleBudget": 20000,
-    "instanceKey": "crystal-artifact:glass"
-  },
-  {
     "id": "car-paint",
     "displayName": "car paint",
     "modelPath": "assets/models/car-paint.glb",
