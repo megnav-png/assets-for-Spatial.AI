@@ -167,5 +167,28 @@
     "materialFamily": "metal",
     "triangleBudget": 18000,
     "instanceKey": "necklace:metal"
+  },
+  {
+    "id": "necklace-1",
+    "displayName": "necklace 1",
+    "modelPath": "assets/models/necklace-1.glb",
+    "scale": 0.10550915866211368,
+    "realWorldSizeMeters": 0.2,
+    "triangles": 31224,
+    "bounds": {
+      "min": [
+        -0.948745012,
+        -0.745104074,
+        -0.0136739928
+      ],
+      "max": [
+        0.946825027,
+        0.743698061,
+        0.012390011
+      ]
+    },
+    "materialFamily": "metal",
+    "triangleBudget": 18000,
+    "instanceKey": "necklace-1:metal"
   }
 ]
