@@ -146,5 +146,29 @@
     "materialFamily": "metal",
     "triangleBudget": 18000,
     "instanceKey": "geneva-watch:metal"
+  },
+  {
+    "id": "luxury-watch-4",
+    "displayName": "luxury watch 4",
+    "modelPath": "assets/models/luxury-watch-4.glb",
+    "scale": 0.10542127438151214,
+    "realWorldSizeMeters": 0.2,
+    "colorHex": "#dad7e5",
+    "triangles": 21476,
+    "bounds": {
+      "min": [
+        -0.517454982,
+        -0.948809147,
+        -0.796815097
+      ],
+      "max": [
+        0.514886975,
+        0.948341131,
+        0.785566092
+      ]
+    },
+    "materialFamily": "metal",
+    "triangleBudget": 18000,
+    "instanceKey": "luxury-watch-4:metal"
   }
 ]
