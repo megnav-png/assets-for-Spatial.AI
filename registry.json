@@ -121,5 +121,28 @@
     "materialFamily": "gem",
     "triangleBudget": 15000,
     "instanceKey": "precious-4:gem"
+  },
+  {
+    "id": "gold-bangle",
+    "displayName": "precious 4gold bangle",
+    "modelPath": "assets/models/gold-bangle.glb",
+    "scale": 0.10556596742722171,
+    "realWorldSizeMeters": 0.2,
+    "triangles": 50005,
+    "bounds": {
+      "min": [
+        -0.948180974,
+        -0.140670121,
+        -0.949655116
+      ],
+      "max": [
+        0.946368992,
+        0.142161906,
+        0.935607135
+      ]
+    },
+    "materialFamily": "metal",
+    "triangleBudget": 18000,
+    "instanceKey": "gold-bangle:metal"
   }
 ]
