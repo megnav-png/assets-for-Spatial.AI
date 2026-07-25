@@ -100,30 +100,6 @@
     "instanceKey": "logo:metal"
   },
   {
-    "id": "luxury-watch-3",
-    "displayName": "luxury watch 3",
-    "modelPath": "assets/models/luxury-watch-3.glb",
-    "scale": 0.10530838241328784,
-    "realWorldSizeMeters": 0.2,
-    "colorHex": "#8bcb15",
-    "triangles": 76511,
-    "bounds": {
-      "min": [
-        -0.950523019,
-        -0.219936043,
-        -0.566250086
-      ],
-      "max": [
-        0.948661029,
-        0.218970031,
-        0.564169049
-      ]
-    },
-    "materialFamily": "metal",
-    "triangleBudget": 18000,
-    "instanceKey": "luxury-watch-3:metal"
-  },
-  {
     "id": "geneva-watch",
     "displayName": "geneva watch",
     "modelPath": "assets/models/geneva-watch.glb",
