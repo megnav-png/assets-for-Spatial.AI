@@ -168,11 +168,11 @@
     "realWorldSizeMeters": 0.2,
     "colorHex": "#985d5d",
     "lighting": {
-      "exposure": 1.1,
-      "keyIntensity": 0.8,
-      "rimIntensity": 1,
-      "envIntensity": 1.25,
-      "bloomStrength": 1.6
+      "exposure": 1.2,
+      "keyIntensity": 2.4,
+      "rimIntensity": 1.2,
+      "envIntensity": 1,
+      "bloomStrength": 0.6
     },
     "triangles": 18000,
     "bounds": {
