@@ -46,29 +46,6 @@
     "instanceKey": "alloy-wheel:metal"
   },
   {
-    "id": "car-paint",
-    "displayName": "car paint",
-    "modelPath": "assets/models/car-paint.glb",
-    "scale": 0.6322291594544357,
-    "realWorldSizeMeters": 1.2,
-    "triangles": 19938,
-    "bounds": {
-      "min": [
-        -0.949850976,
-        -0.257737964,
-        -0.470831066
-      ],
-      "max": [
-        0.948194981,
-        0.255013019,
-        0.467279047
-      ]
-    },
-    "materialFamily": "car-paint",
-    "triangleBudget": 20000,
-    "instanceKey": "car-paint:car-paint"
-  },
-  {
     "id": "gem",
     "displayName": "gem",
     "modelPath": "assets/models/gem.glb",
