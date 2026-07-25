@@ -182,6 +182,13 @@
     },
     "materialFamily": "metal",
     "triangleBudget": 18000,
-    "instanceKey": "logo:metal"
+    "instanceKey": "logo:metal",
+    "lighting": {
+      "exposure": 1.1,
+      "keyIntensity": 0.8,
+      "rimIntensity": 1,
+      "envIntensity": 1.25,
+      "bloomStrength": 1.6
+    }
   }
 ]
