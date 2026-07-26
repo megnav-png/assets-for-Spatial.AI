@@ -143,7 +143,8 @@
     },
     "materialFamily": "metal",
     "triangleBudget": 18000,
-    "instanceKey": "gold-bangle:metal"
+    "instanceKey": "gold-bangle:metal",
+    "colorHex": "#c8a24a"
   },
   {
     "id": "necklace",
