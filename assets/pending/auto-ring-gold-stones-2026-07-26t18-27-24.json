@@ -1,0 +1,78 @@
+{
+  "assetId": "auto-ring-gold-stones-2026-07-26t18-27-24",
+  "displayName": "Auto ring — gold and stones",
+  "materialFamily": "gem",
+  "scale": 0.01317232190265882,
+  "realWorldSizeMeters": 0.025,
+  "textured": true,
+  "triangles": 15000,
+  "bounds": {
+    "min": [
+      -0.950361013,
+      -0.95019114,
+      -0.170761943
+    ],
+    "max": [
+      0.947557986,
+      0.942844093,
+      0.168928102
+    ]
+  },
+  "triangleBudget": 15000,
+  "quality": {
+    "checks": [
+      {
+        "id": "triangle-budget",
+        "label": "Triangle budget",
+        "status": "pass",
+        "detail": "15,000 triangles (soft 20,000, hard 120,000)"
+      },
+      {
+        "id": "file-size",
+        "label": "Download size",
+        "status": "pass",
+        "detail": "6.6 MB"
+      },
+      {
+        "id": "manifold",
+        "label": "Manifold topology",
+        "status": "warn",
+        "detail": "0.0% open edges, 1 self-intersecting"
+      },
+      {
+        "id": "degenerate",
+        "label": "Degenerate triangles",
+        "status": "pass",
+        "detail": "None"
+      },
+      {
+        "id": "vertex-sharing",
+        "label": "Vertex sharing",
+        "status": "warn",
+        "detail": "3.51× raw:welded — geometry is split per face"
+      },
+      {
+        "id": "proportions",
+        "label": "Proportions",
+        "status": "pass",
+        "detail": "1.90 × 1.89 × 0.34"
+      },
+      {
+        "id": "parts",
+        "label": "Mesh parts",
+        "status": "pass",
+        "detail": "1 primitive"
+      }
+    ],
+    "clean": true
+  },
+  "optimisation": {
+    "beforeBytes": 12276752,
+    "afterBytes": 6872416,
+    "trianglesBefore": 118397,
+    "trianglesAfter": 15000
+  },
+  "meshyTaskId": "019f9fb0-40fb-7b61-b3d8-76b260cd2ef3",
+  "generatedAt": "2026-07-26T18:29:14.695Z",
+  "sourcePhotoName": "auto-ring-gold-stones.png"
+}
