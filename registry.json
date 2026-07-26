@@ -577,5 +577,29 @@
     "materialFamily": "gem",
     "triangleBudget": 15000,
     "instanceKey": "ring-5:gem"
+  },
+  {
+    "id": "ring-6",
+    "displayName": "ring 6",
+    "modelPath": "assets/models/ring-6.glb",
+    "scale": 0.10566797764541311,
+    "realWorldSizeMeters": 0.2,
+    "colorHex": "#c8a66e",
+    "triangles": 56121,
+    "bounds": {
+      "min": [
+        -0.947239995,
+        -0.853945136,
+        -0.405181974
+      ],
+      "max": [
+        0.945481002,
+        0.850123107,
+        0.403668046
+      ]
+    },
+    "materialFamily": "metal",
+    "triangleBudget": 18000,
+    "instanceKey": "ring-6:metal"
   }
 ]
