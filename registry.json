@@ -477,5 +477,30 @@
     "materialFamily": "gem",
     "triangleBudget": 15000,
     "instanceKey": "ring-2:gem"
+  },
+  {
+    "id": "pave-ring",
+    "displayName": "pave ring",
+    "modelPath": "assets/models/pave-ring.glb",
+    "scale": 0.013173620156557831,
+    "realWorldSizeMeters": 0.025,
+    "colorHex": "#95b7c8",
+    "textured": true,
+    "triangles": 26470,
+    "bounds": {
+      "min": [
+        -0.949522972,
+        -0.428177059,
+        -0.485405058
+      ],
+      "max": [
+        0.948208988,
+        0.425916046,
+        0.485546052
+      ]
+    },
+    "materialFamily": "gem",
+    "triangleBudget": 15000,
+    "instanceKey": "pave-ring:gem"
   }
 ]
