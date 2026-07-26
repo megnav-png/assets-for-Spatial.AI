@@ -1,0 +1,78 @@
+{
+  "assetId": "car-paint-2",
+  "displayName": "car paint 2",
+  "materialFamily": "car-paint",
+  "scale": 0.5264751091544791,
+  "realWorldSizeMeters": 1,
+  "colorHex": "#c80101",
+  "textured": true,
+  "triangles": 44993,
+  "bounds": {
+    "min": [
+      -0.950703025,
+      -0.732487082,
+      -0.682828069
+    ],
+    "max": [
+      0.948722005,
+      0.72569102,
+      0.681651056
+    ]
+  },
+  "triangleBudget": 45000,
+  "quality": {
+    "checks": [
+      {
+        "id": "triangle-budget",
+        "label": "Triangle budget",
+        "status": "warn",
+        "detail": "44,993 triangles (soft 20,000, hard 120,000)"
+      },
+      {
+        "id": "file-size",
+        "label": "Download size",
+        "status": "warn",
+        "detail": "8.3 MB"
+      },
+      {
+        "id": "manifold",
+        "label": "Manifold topology",
+        "status": "warn",
+        "detail": "0.3% open edges, 2 self-intersecting"
+      },
+      {
+        "id": "degenerate",
+        "label": "Degenerate triangles",
+        "status": "pass",
+        "detail": "None"
+      },
+      {
+        "id": "vertex-sharing",
+        "label": "Vertex sharing",
+        "status": "pass",
+        "detail": "2.45× raw:welded"
+      },
+      {
+        "id": "proportions",
+        "label": "Proportions",
+        "status": "pass",
+        "detail": "1.90 × 1.46 × 1.36"
+      },
+      {
+        "id": "parts",
+        "label": "Mesh parts",
+        "status": "pass",
+        "detail": "1 primitive"
+      }
+    ],
+    "clean": true
+  },
+  "optimisation": {
+    "beforeBytes": 11439920,
+    "afterBytes": 8674316,
+    "trianglesBefore": 118876,
+    "trianglesAfter": 44993
+  },
+  "meshyTaskId": "019f9eb0-2e27-7c30-8a48-d25be24b53f8",
+  "generatedAt": "2026-07-26T13:49:32.581Z"
+}
