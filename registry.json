@@ -286,5 +286,30 @@
     "materialFamily": "metal",
     "triangleBudget": 18000,
     "instanceKey": "tissot-watch-2:metal"
+  },
+  {
+    "id": "ring",
+    "displayName": "ring",
+    "modelPath": "assets/models/ring.glb",
+    "scale": 0.013168933491375987,
+    "realWorldSizeMeters": 0.025,
+    "colorHex": "#86b1c8",
+    "textured": true,
+    "triangles": 22254,
+    "bounds": {
+      "min": [
+        -0.819670022,
+        -0.582312107,
+        -0.949473202
+      ],
+      "max": [
+        0.817759991,
+        0.583128989,
+        0.948934138
+      ]
+    },
+    "materialFamily": "gem",
+    "triangleBudget": 15000,
+    "instanceKey": "ring:gem"
   }
 ]
