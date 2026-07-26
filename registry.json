@@ -378,5 +378,29 @@
     "materialFamily": "car-paint",
     "triangleBudget": 45000,
     "instanceKey": "car-paint-3:car-paint"
+  },
+  {
+    "id": "car-paint-4",
+    "displayName": "car paint 4",
+    "modelPath": "assets/models/car-paint-4.glb",
+    "scale": 0.1579913524623431,
+    "realWorldSizeMeters": 0.3,
+    "colorHex": "#1835c8",
+    "triangles": 44995,
+    "bounds": {
+      "min": [
+        -0.641458988,
+        -0.687650204,
+        -0.950050056
+      ],
+      "max": [
+        0.639603019,
+        0.686568081,
+        0.948788047
+      ]
+    },
+    "materialFamily": "car-paint",
+    "triangleBudget": 45000,
+    "instanceKey": "car-paint-4:car-paint"
   }
 ]
