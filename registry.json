@@ -311,5 +311,30 @@
     "materialFamily": "gem",
     "triangleBudget": 15000,
     "instanceKey": "ring:gem"
+  },
+  {
+    "id": "necklace-3",
+    "displayName": "necklace 3",
+    "modelPath": "assets/models/necklace-3.glb",
+    "scale": 0.10552229816612192,
+    "realWorldSizeMeters": 0.2,
+    "colorHex": "#dcc2af",
+    "textured": true,
+    "triangles": 47868,
+    "bounds": {
+      "min": [
+        -0.948112011,
+        -0.741339087,
+        -0.0275430661
+      ],
+      "max": [
+        0.947221994,
+        0.742828071,
+        0.0253809355
+      ]
+    },
+    "materialFamily": "metal",
+    "triangleBudget": 18000,
+    "instanceKey": "necklace-3:metal"
   }
 ]
