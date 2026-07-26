@@ -627,7 +627,14 @@
     "triangleBudget": 45000,
     "instanceKey": "bangle-1:metal",
     "generatedAt": "2026-07-26T20:11:16.249Z",
-    "sourcePhotoName": "ChatGPT Image Jul 27, 2026, 01_39_59 AM.png"
+    "sourcePhotoName": "ChatGPT Image Jul 27, 2026, 01_39_59 AM.png",
+    "lighting": {
+      "exposure": 0.95,
+      "keyIntensity": 1.3,
+      "rimIntensity": 1.3,
+      "envIntensity": 0.9,
+      "bloomStrength": 0.3
+    }
   },
   {
     "id": "bangle-2",
