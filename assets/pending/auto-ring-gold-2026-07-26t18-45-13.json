@@ -1,0 +1,79 @@
+{
+  "assetId": "auto-ring-gold-2026-07-26t18-45-13",
+  "displayName": "Auto ring — solid gold",
+  "materialFamily": "metal",
+  "scale": 0.013162118529952676,
+  "realWorldSizeMeters": 0.025,
+  "colorHex": "#d4af37",
+  "textured": false,
+  "triangles": 17996,
+  "bounds": {
+    "min": [
+      -0.950501025,
+      -0.171193078,
+      -0.95057714
+    ],
+    "max": [
+      0.948617995,
+      0.16938594,
+      0.94881314
+    ]
+  },
+  "triangleBudget": 18000,
+  "quality": {
+    "checks": [
+      {
+        "id": "triangle-budget",
+        "label": "Triangle budget",
+        "status": "pass",
+        "detail": "17,996 triangles (soft 20,000, hard 120,000)"
+      },
+      {
+        "id": "file-size",
+        "label": "Download size",
+        "status": "pass",
+        "detail": "0.8 MB"
+      },
+      {
+        "id": "manifold",
+        "label": "Manifold topology",
+        "status": "pass",
+        "detail": "Watertight — every edge shared by two faces"
+      },
+      {
+        "id": "degenerate",
+        "label": "Degenerate triangles",
+        "status": "pass",
+        "detail": "None"
+      },
+      {
+        "id": "vertex-sharing",
+        "label": "Vertex sharing",
+        "status": "warn",
+        "detail": "2.63× raw:welded — geometry is split per face"
+      },
+      {
+        "id": "proportions",
+        "label": "Proportions",
+        "status": "pass",
+        "detail": "1.90 × 0.34 × 1.90"
+      },
+      {
+        "id": "parts",
+        "label": "Mesh parts",
+        "status": "pass",
+        "detail": "1 primitive"
+      }
+    ],
+    "clean": true
+  },
+  "optimisation": {
+    "beforeBytes": 5336828,
+    "afterBytes": 865500,
+    "trianglesBefore": 119900,
+    "trianglesAfter": 17996
+  },
+  "meshyTaskId": "019f9fbf-204f-7121-865d-2df1c47a6c9e",
+  "generatedAt": "2026-07-26T18:45:29.381Z",
+  "sourcePhotoName": "auto-ring-gold.png"
+}
