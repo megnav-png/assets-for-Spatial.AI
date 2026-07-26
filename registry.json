@@ -601,5 +601,32 @@
     "materialFamily": "metal",
     "triangleBudget": 18000,
     "instanceKey": "ring-6:metal"
+  },
+  {
+    "id": "bangle-1",
+    "displayName": "bangle-1",
+    "modelPath": "assets/models/bangle-1.glb",
+    "scale": 0.10540361042465107,
+    "realWorldSizeMeters": 0.2,
+    "colorHex": "#c8a859",
+    "textured": true,
+    "triangles": 45003,
+    "bounds": {
+      "min": [
+        -0.948767006,
+        -0.950044096,
+        -0.160584122
+      ],
+      "max": [
+        0.944189012,
+        0.947424114,
+        0.157965094
+      ]
+    },
+    "materialFamily": "metal",
+    "triangleBudget": 45000,
+    "instanceKey": "bangle-1:metal",
+    "generatedAt": "2026-07-26T20:11:16.249Z",
+    "sourcePhotoName": "ChatGPT Image Jul 27, 2026, 01_39_59 AM.png"
   }
 ]
