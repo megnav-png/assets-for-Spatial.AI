@@ -1,0 +1,78 @@
+{
+  "assetId": "auto-bangle-gold-stones-2026-07-26t18-27-24",
+  "displayName": "Auto bangle — gold and stones",
+  "materialFamily": "gem",
+  "scale": 0.03688990205306771,
+  "realWorldSizeMeters": 0.07,
+  "textured": true,
+  "triangles": 30093,
+  "bounds": {
+    "min": [
+      -0.947636008,
+      -0.949329138,
+      -0.10979493
+    ],
+    "max": [
+      0.946034014,
+      0.948209107,
+      0.108126089
+    ]
+  },
+  "triangleBudget": 15000,
+  "quality": {
+    "checks": [
+      {
+        "id": "triangle-budget",
+        "label": "Triangle budget",
+        "status": "warn",
+        "detail": "30,093 triangles (soft 20,000, hard 120,000)"
+      },
+      {
+        "id": "file-size",
+        "label": "Download size",
+        "status": "warn",
+        "detail": "9.8 MB"
+      },
+      {
+        "id": "manifold",
+        "label": "Manifold topology",
+        "status": "warn",
+        "detail": "0.0% open edges, 14 self-intersecting"
+      },
+      {
+        "id": "degenerate",
+        "label": "Degenerate triangles",
+        "status": "pass",
+        "detail": "None"
+      },
+      {
+        "id": "vertex-sharing",
+        "label": "Vertex sharing",
+        "status": "warn",
+        "detail": "3.64× raw:welded — geometry is split per face"
+      },
+      {
+        "id": "proportions",
+        "label": "Proportions",
+        "status": "pass",
+        "detail": "1.89 × 1.90 × 0.22"
+      },
+      {
+        "id": "parts",
+        "label": "Mesh parts",
+        "status": "pass",
+        "detail": "1 primitive"
+      }
+    ],
+    "clean": true
+  },
+  "optimisation": {
+    "beforeBytes": 15820860,
+    "afterBytes": 10255416,
+    "trianglesBefore": 114807,
+    "trianglesAfter": 30093
+  },
+  "meshyTaskId": "019f9fb6-0bc1-7f83-8ac1-894995ff439f",
+  "generatedAt": "2026-07-26T18:35:34.288Z",
+  "sourcePhotoName": "auto-bangle-gold-stones.png"
+}
