@@ -1,0 +1,78 @@
+{
+  "assetId": "auto-bangle-gold-2026-07-26t18-27-24",
+  "displayName": "Auto bangle — solid gold",
+  "materialFamily": "metal",
+  "scale": 0.036860555251480555,
+  "realWorldSizeMeters": 0.07,
+  "textured": false,
+  "triangles": 18000,
+  "bounds": {
+    "min": [
+      -0.950426996,
+      -0.9501791,
+      -0.251509041
+    ],
+    "max": [
+      0.948621988,
+      0.948444128,
+      0.249694124
+    ]
+  },
+  "triangleBudget": 18000,
+  "quality": {
+    "checks": [
+      {
+        "id": "triangle-budget",
+        "label": "Triangle budget",
+        "status": "pass",
+        "detail": "18,000 triangles (soft 20,000, hard 120,000)"
+      },
+      {
+        "id": "file-size",
+        "label": "Download size",
+        "status": "pass",
+        "detail": "0.9 MB"
+      },
+      {
+        "id": "manifold",
+        "label": "Manifold topology",
+        "status": "pass",
+        "detail": "Watertight — every edge shared by two faces"
+      },
+      {
+        "id": "degenerate",
+        "label": "Degenerate triangles",
+        "status": "pass",
+        "detail": "None"
+      },
+      {
+        "id": "vertex-sharing",
+        "label": "Vertex sharing",
+        "status": "warn",
+        "detail": "3.04× raw:welded — geometry is split per face"
+      },
+      {
+        "id": "proportions",
+        "label": "Proportions",
+        "status": "pass",
+        "detail": "1.90 × 1.90 × 0.50"
+      },
+      {
+        "id": "parts",
+        "label": "Mesh parts",
+        "status": "pass",
+        "detail": "1 primitive"
+      }
+    ],
+    "clean": true
+  },
+  "optimisation": {
+    "beforeBytes": 6437812,
+    "afterBytes": 985236,
+    "trianglesBefore": 120006,
+    "trianglesAfter": 18000
+  },
+  "meshyTaskId": "019f9fb4-b6f0-7d40-8089-a17e5bafbcfa",
+  "generatedAt": "2026-07-26T18:34:07.021Z",
+  "sourcePhotoName": "auto-bangle-gold.png"
+}
