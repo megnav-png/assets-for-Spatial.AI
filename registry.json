@@ -69,37 +69,6 @@
     "instanceKey": "gem:gem"
   },
   {
-    "id": "logo",
-    "displayName": "Logo",
-    "modelPath": "assets/models/logo.glb",
-    "scale": 0.10691109485143034,
-    "realWorldSizeMeters": 0.2,
-    "colorHex": "#985d5d",
-    "lighting": {
-      "exposure": 1.2,
-      "keyIntensity": 2.4,
-      "rimIntensity": 1.2,
-      "envIntensity": 1,
-      "bloomStrength": 0.6
-    },
-    "triangles": 18000,
-    "bounds": {
-      "min": [
-        -0.771387994,
-        -0.93721509,
-        -0.771548092
-      ],
-      "max": [
-        0.769279003,
-        0.933498144,
-        0.769385099
-      ]
-    },
-    "materialFamily": "metal",
-    "triangleBudget": 18000,
-    "instanceKey": "logo:metal"
-  },
-  {
     "id": "precious-4",
     "displayName": "precious 4",
     "modelPath": "assets/models/precious-4.glb",
