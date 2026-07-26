@@ -1,0 +1,85 @@
+{
+  "assetId": "bangle-1",
+  "displayName": "bangle-1",
+  "materialFamily": "metal",
+  "scale": 0.10540361042465107,
+  "realWorldSizeMeters": 0.2,
+  "colorHex": "#c8a859",
+  "textured": true,
+  "triangles": 45003,
+  "bounds": {
+    "min": [
+      -0.948767006,
+      -0.950044096,
+      -0.160584122
+    ],
+    "max": [
+      0.944189012,
+      0.947424114,
+      0.157965094
+    ]
+  },
+  "triangleBudget": 45000,
+  "quality": {
+    "checks": [
+      {
+        "id": "triangle-budget",
+        "label": "Triangle budget",
+        "status": "warn",
+        "detail": "45,003 triangles (soft 45,000, hard 120,000)"
+      },
+      {
+        "id": "file-size",
+        "label": "Download size",
+        "status": "warn",
+        "detail": "15.3 MB"
+      },
+      {
+        "id": "manifold",
+        "label": "Manifold topology",
+        "status": "warn",
+        "detail": "0.1% open edges, 11 self-intersecting"
+      },
+      {
+        "id": "degenerate",
+        "label": "Degenerate triangles",
+        "status": "pass",
+        "detail": "None"
+      },
+      {
+        "id": "vertex-sharing",
+        "label": "Vertex sharing",
+        "status": "warn",
+        "detail": "3.73× raw:welded — geometry is split per face"
+      },
+      {
+        "id": "proportions",
+        "label": "Proportions",
+        "status": "pass",
+        "detail": "1.89 × 1.90 × 0.32"
+      },
+      {
+        "id": "parts",
+        "label": "Mesh parts",
+        "status": "pass",
+        "detail": "1 primitive"
+      },
+      {
+        "id": "budget-escalation",
+        "label": "Budget escalation",
+        "status": "warn",
+        "detail": "18,000 was unreachable; retried at 45,000 and still ran over — likely too dense for automatic budgeting."
+      }
+    ],
+    "clean": true
+  },
+  "optimisation": {
+    "beforeBytes": 21478768,
+    "afterBytes": 16023536,
+    "trianglesBefore": 114105,
+    "trianglesAfter": 45003
+  },
+  "meshyTaskId": "019fa00d-a969-72e8-b6ee-7356f1c614d6",
+  "generatedAt": "2026-07-26T20:11:16.249Z",
+  "sourcePhotoName": "ChatGPT Image Jul 27, 2026, 01_39_59 AM.png"
+}
