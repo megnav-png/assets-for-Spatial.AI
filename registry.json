@@ -452,5 +452,30 @@
     "materialFamily": "car-paint",
     "triangleBudget": 45000,
     "instanceKey": "car-paint-6:car-paint"
+  },
+  {
+    "id": "ring-2",
+    "displayName": "ring 2",
+    "modelPath": "assets/models/ring-2.glb",
+    "scale": 0.01318830933818922,
+    "realWorldSizeMeters": 0.025,
+    "colorHex": "#c8c7c6",
+    "textured": true,
+    "triangles": 76610,
+    "bounds": {
+      "min": [
+        -0.944756985,
+        -0.950383127,
+        -0.324333966
+      ],
+      "max": [
+        0.941353023,
+        0.945235133,
+        0.320166945
+      ]
+    },
+    "materialFamily": "gem",
+    "triangleBudget": 15000,
+    "instanceKey": "ring-2:gem"
   }
 ]
