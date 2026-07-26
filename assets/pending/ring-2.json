@@ -1,0 +1,78 @@
+{
+  "assetId": "ring-2",
+  "displayName": "ring 2",
+  "materialFamily": "gem",
+  "scale": 0.01318830933818922,
+  "realWorldSizeMeters": 0.025,
+  "colorHex": "#c8c7c6",
+  "textured": true,
+  "triangles": 76610,
+  "bounds": {
+    "min": [
+      -0.944756985,
+      -0.950383127,
+      -0.324333966
+    ],
+    "max": [
+      0.941353023,
+      0.945235133,
+      0.320166945
+    ]
+  },
+  "triangleBudget": 15000,
+  "quality": {
+    "checks": [
+      {
+        "id": "triangle-budget",
+        "label": "Triangle budget",
+        "status": "warn",
+        "detail": "76,610 triangles (soft 20,000, hard 120,000)"
+      },
+      {
+        "id": "file-size",
+        "label": "Download size",
+        "status": "warn",
+        "detail": "22.3 MB"
+      },
+      {
+        "id": "manifold",
+        "label": "Manifold topology",
+        "status": "warn",
+        "detail": "0.8% open edges, 173 self-intersecting"
+      },
+      {
+        "id": "degenerate",
+        "label": "Degenerate triangles",
+        "status": "pass",
+        "detail": "None"
+      },
+      {
+        "id": "vertex-sharing",
+        "label": "Vertex sharing",
+        "status": "warn",
+        "detail": "4.03× raw:welded — geometry is split per face"
+      },
+      {
+        "id": "proportions",
+        "label": "Proportions",
+        "status": "pass",
+        "detail": "1.89 × 1.90 × 0.64"
+      },
+      {
+        "id": "parts",
+        "label": "Mesh parts",
+        "status": "pass",
+        "detail": "1 primitive"
+      }
+    ],
+    "clean": true
+  },
+  "optimisation": {
+    "beforeBytes": 26478084,
+    "afterBytes": 23417708,
+    "trianglesBefore": 115693,
+    "trianglesAfter": 76610
+  },
+  "meshyTaskId": "019f9ee8-db6f-790d-849f-bb422e161c5f",
+  "generatedAt": "2026-07-26T14:51:27.031Z"
+}
