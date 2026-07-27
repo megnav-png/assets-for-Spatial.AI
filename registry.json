@@ -722,5 +722,31 @@
     "instanceKey": "auto-bangle-gold-stones-2026-07-26t19-39-08:gem",
     "generatedAt": "2026-07-26T19:39:23.239Z",
     "sourcePhotoName": "auto-bangle-gold-stones.png"
+  },
+  {
+    "id": "gold-chain",
+    "displayName": "gold chain",
+    "modelPath": "assets/models/gold-chain.glb",
+    "scale": 0.20044517450095925,
+    "realWorldSizeMeters": 0.2,
+    "colorHex": "#dcbc6f",
+    "triangles": 18054,
+    "bounds": {
+      "min": [
+        -0.0795342177,
+        -0.498194754,
+        -0.353819847
+      ],
+      "max": [
+        0.0817778185,
+        0.499584317,
+        0.353072077
+      ]
+    },
+    "materialFamily": "metal",
+    "triangleBudget": 18000,
+    "instanceKey": "gold-chain:metal",
+    "generatedAt": "2026-07-27T12:57:07.181Z",
+    "sourcePhotoName": "ChatGPT Image Jul 27, 2026, 06_26_03 PM.png"
   }
 ]
