@@ -1015,5 +1015,32 @@
     "instanceKey": "deep-red-ruby-cocktail-ring-:gem",
     "generatedAt": "2026-07-27T17:50:59.290Z",
     "sourcePhotoName": "Screenshot 2026-07-27 at 11.10.42â¯PM.png"
+  },
+  {
+    "id": "single-south-sea-pearl",
+    "displayName": "Single South Sea pearl",
+    "modelPath": "assets/models/single-south-sea-pearl.glb",
+    "scale": 0.12012838973922998,
+    "realWorldSizeMeters": 0.12,
+    "colorHex": "#e8dfd8",
+    "textured": true,
+    "triangles": 11362,
+    "bounds": {
+      "min": [
+        -0.337713063,
+        -0.482534647,
+        -0.499469995
+      ],
+      "max": [
+        0.338264763,
+        0.481514812,
+        0.499461234
+      ]
+    },
+    "materialFamily": "ceramic",
+    "triangleBudget": 8000,
+    "instanceKey": "single-south-sea-pearl:ceramic",
+    "generatedAt": "2026-07-27T18:00:27.290Z",
+    "sourcePhotoName": "Screenshot 2026-07-27 at 11.25.50â¯PM.png"
   }
 ]
