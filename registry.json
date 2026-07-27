@@ -903,5 +903,32 @@
     "instanceKey": "auto-ring-gold-stones-2026-07-26t18-27-24:gem",
     "generatedAt": "2026-07-26T18:29:14.695Z",
     "sourcePhotoName": "auto-ring-gold-stones.png"
+  },
+  {
+    "id": "ring-8",
+    "displayName": "ring 8",
+    "modelPath": "assets/models/ring-8.glb",
+    "scale": 0.0250032212900149,
+    "realWorldSizeMeters": 0.025,
+    "colorHex": "#c87e83",
+    "textured": true,
+    "triangles": 90015,
+    "bounds": {
+      "min": [
+        -0.49742955,
+        -0.499871165,
+        -0.490008682
+      ],
+      "max": [
+        0.497346878,
+        0.5,
+        0.489685416
+      ]
+    },
+    "materialFamily": "gem",
+    "triangleBudget": 90000,
+    "instanceKey": "ring-8:gem",
+    "generatedAt": "2026-07-27T12:33:20.315Z",
+    "sourcePhotoName": "Untitled design (33).png"
   }
 ]
