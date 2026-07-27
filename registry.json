@@ -774,5 +774,30 @@
     "instanceKey": "angara-solitaire:gem",
     "generatedAt": "2026-07-27T16:48:29.365Z",
     "sourcePhotoName": "Angara solitaire.jpg"
+  },
+  {
+    "id": "auto-bangle-gold-2026-07-26t18-27-24",
+    "displayName": "Auto bangle — solid gold",
+    "modelPath": "assets/models/auto-bangle-gold-2026-07-26t18-27-24.glb",
+    "scale": 0.036860555251480555,
+    "realWorldSizeMeters": 0.07,
+    "triangles": 18000,
+    "bounds": {
+      "min": [
+        -0.950426996,
+        -0.9501791,
+        -0.251509041
+      ],
+      "max": [
+        0.948621988,
+        0.948444128,
+        0.249694124
+      ]
+    },
+    "materialFamily": "metal",
+    "triangleBudget": 18000,
+    "instanceKey": "auto-bangle-gold-2026-07-26t18-27-24:metal",
+    "generatedAt": "2026-07-26T18:34:07.021Z",
+    "sourcePhotoName": "auto-bangle-gold.png"
   }
 ]
