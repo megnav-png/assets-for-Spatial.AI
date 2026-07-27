@@ -748,5 +748,31 @@
     "instanceKey": "gold-chain:metal",
     "generatedAt": "2026-07-27T12:57:07.181Z",
     "sourcePhotoName": "ChatGPT Image Jul 27, 2026, 06_26_03 PM.png"
+  },
+  {
+    "id": "angara-solitaire",
+    "displayName": "angara solitaire",
+    "modelPath": "assets/models/angara-solitaire.glb",
+    "scale": 0.022002532425474574,
+    "realWorldSizeMeters": 0.022,
+    "colorHex": "#dbdcdc",
+    "triangles": 90061,
+    "bounds": {
+      "min": [
+        -0.172852397,
+        -0.45199278,
+        -0.499955207
+      ],
+      "max": [
+        0.172668993,
+        0.45199278,
+        0.499929696
+      ]
+    },
+    "materialFamily": "gem",
+    "triangleBudget": 90000,
+    "instanceKey": "angara-solitaire:gem",
+    "generatedAt": "2026-07-27T16:48:29.365Z",
+    "sourcePhotoName": "Angara solitaire.jpg"
   }
 ]
