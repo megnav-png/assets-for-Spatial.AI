@@ -877,5 +877,31 @@
     "instanceKey": "auto-bangle-stone-colors-2026-07-26t18-27-24:gem",
     "generatedAt": "2026-07-26T18:38:51.730Z",
     "sourcePhotoName": "auto-bangle-stone-colors.png"
+  },
+  {
+    "id": "auto-ring-gold-stones-2026-07-26t18-27-24",
+    "displayName": "Auto ring — gold and stones",
+    "modelPath": "assets/models/auto-ring-gold-stones-2026-07-26t18-27-24.glb",
+    "scale": 0.01317232190265882,
+    "realWorldSizeMeters": 0.025,
+    "textured": true,
+    "triangles": 15000,
+    "bounds": {
+      "min": [
+        -0.950361013,
+        -0.95019114,
+        -0.170761943
+      ],
+      "max": [
+        0.947557986,
+        0.942844093,
+        0.168928102
+      ]
+    },
+    "materialFamily": "gem",
+    "triangleBudget": 15000,
+    "instanceKey": "auto-ring-gold-stones-2026-07-26t18-27-24:gem",
+    "generatedAt": "2026-07-26T18:29:14.695Z",
+    "sourcePhotoName": "auto-ring-gold-stones.png"
   }
 ]
