@@ -1068,5 +1068,32 @@
     "instanceKey": "fire-the-hero:gem",
     "generatedAt": "2026-07-27T18:10:15.009Z",
     "sourcePhotoName": "Angara solitaire.jpg"
+  },
+  {
+    "id": "asset-b",
+    "displayName": "asset b",
+    "modelPath": "assets/models/asset-b.glb",
+    "scale": 0.025003238444446567,
+    "realWorldSizeMeters": 0.025,
+    "colorHex": "#d5ae75",
+    "textured": true,
+    "triangles": 89996,
+    "bounds": {
+      "min": [
+        -0.499506354,
+        -0.49987179,
+        -0.173550531
+      ],
+      "max": [
+        0.499622971,
+        0.499998689,
+        0.173492268
+      ]
+    },
+    "materialFamily": "gem",
+    "triangleBudget": 90000,
+    "instanceKey": "asset-b:gem",
+    "generatedAt": "2026-07-27T18:19:23.958Z",
+    "sourcePhotoName": "Screenshot 2026-07-27 at 11.10.42â¯PM.png"
   }
 ]
