@@ -159,7 +159,14 @@
     },
     "materialFamily": "metal",
     "triangleBudget": 18000,
-    "instanceKey": "necklace-1:metal"
+    "instanceKey": "necklace-1:metal",
+    "lighting": {
+      "exposure": 1.2,
+      "keyIntensity": 2.4,
+      "rimIntensity": 1.2,
+      "envIntensity": 1,
+      "bloomStrength": 0.6
+    }
   },
   {
     "id": "necklace-2",
@@ -610,6 +617,13 @@
     "realWorldSizeMeters": 0.2,
     "colorHex": "#c8a859",
     "textured": true,
+    "lighting": {
+      "exposure": 0.95,
+      "keyIntensity": 1.3,
+      "rimIntensity": 1.3,
+      "envIntensity": 0.9,
+      "bloomStrength": 0.3
+    },
     "triangles": 45003,
     "bounds": {
       "min": [
@@ -627,14 +641,7 @@
     "triangleBudget": 45000,
     "instanceKey": "bangle-1:metal",
     "generatedAt": "2026-07-26T20:11:16.249Z",
-    "sourcePhotoName": "ChatGPT Image Jul 27, 2026, 01_39_59 AM.png",
-    "lighting": {
-      "exposure": 0.95,
-      "keyIntensity": 1.3,
-      "rimIntensity": 1.3,
-      "envIntensity": 0.9,
-      "bloomStrength": 0.3
-    }
+    "sourcePhotoName": "ChatGPT Image Jul 27, 2026, 01_39_59 AM.png"
   },
   {
     "id": "bangle-2",
