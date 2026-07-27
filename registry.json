@@ -1042,5 +1042,31 @@
     "instanceKey": "single-south-sea-pearl:ceramic",
     "generatedAt": "2026-07-27T18:00:27.290Z",
     "sourcePhotoName": "Screenshot 2026-07-27 at 11.25.50â¯PM.png"
+  },
+  {
+    "id": "fire-the-hero",
+    "displayName": "fire-the-hero",
+    "modelPath": "assets/models/fire-the-hero.glb",
+    "scale": 0.0010002008183199007,
+    "realWorldSizeMeters": 0.001,
+    "colorHex": "#dbdcdc",
+    "triangles": 89929,
+    "bounds": {
+      "min": [
+        -0.175932541,
+        -0.470824361,
+        -0.499871761
+      ],
+      "max": [
+        0.175917864,
+        0.470709503,
+        0.499927461
+      ]
+    },
+    "materialFamily": "gem",
+    "triangleBudget": 90000,
+    "instanceKey": "fire-the-hero:gem",
+    "generatedAt": "2026-07-27T18:10:15.009Z",
+    "sourcePhotoName": "Angara solitaire.jpg"
   }
 ]
