@@ -825,5 +825,31 @@
     "instanceKey": "auto-bangle-gold-stones-2026-07-26t18-27-24:gem",
     "generatedAt": "2026-07-26T18:35:34.288Z",
     "sourcePhotoName": "auto-bangle-gold-stones.png"
+  },
+  {
+    "id": "auto-ring-gold-2026-07-26t18-45-13",
+    "displayName": "Auto ring — solid gold",
+    "modelPath": "assets/models/auto-ring-gold-2026-07-26t18-45-13.glb",
+    "scale": 0.013162118529952676,
+    "realWorldSizeMeters": 0.025,
+    "colorHex": "#d4af37",
+    "triangles": 17996,
+    "bounds": {
+      "min": [
+        -0.950501025,
+        -0.171193078,
+        -0.95057714
+      ],
+      "max": [
+        0.948617995,
+        0.16938594,
+        0.94881314
+      ]
+    },
+    "materialFamily": "metal",
+    "triangleBudget": 18000,
+    "instanceKey": "auto-ring-gold-2026-07-26t18-45-13:metal",
+    "generatedAt": "2026-07-26T18:45:29.381Z",
+    "sourcePhotoName": "auto-ring-gold.png"
   }
 ]
