@@ -1011,5 +1011,32 @@
     "instanceKey": "sapphire-emerald-cut-ring-4:gem",
     "generatedAt": "2026-07-27T11:09:29.218Z",
     "sourcePhotoName": "pexels-the-glorious-studio-3584518-29107752.jpg"
+  },
+  {
+    "id": "trinity-style-ring",
+    "displayName": "Trinity style ring",
+    "modelPath": "assets/models/trinity-style-ring.glb",
+    "scale": 0.02200315674889245,
+    "realWorldSizeMeters": 0.022,
+    "colorHex": "#e2cab1",
+    "textured": true,
+    "triangles": 18070,
+    "bounds": {
+      "min": [
+        -0.113330208,
+        -0.49816066,
+        -0.499932915
+      ],
+      "max": [
+        0.113489829,
+        0.498390317,
+        0.499923617
+      ]
+    },
+    "materialFamily": "metal",
+    "triangleBudget": 18000,
+    "instanceKey": "trinity-style-ring:metal",
+    "generatedAt": "2026-07-27T17:24:17.970Z",
+    "sourcePhotoName": "Screenshot 2026-07-27 at 10.53.56â¯PM.png"
   }
 ]
