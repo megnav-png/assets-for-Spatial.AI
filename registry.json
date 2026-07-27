@@ -961,5 +961,32 @@
     "instanceKey": "trinity-style-ring:metal",
     "generatedAt": "2026-07-27T17:24:17.970Z",
     "sourcePhotoName": "Screenshot 2026-07-27 at 10.53.56â¯PM.png"
+  },
+  {
+    "id": "micro-pav--eternity-band",
+    "displayName": "Micro pavé eternity band",
+    "modelPath": "assets/models/micro-pav--eternity-band.glb",
+    "scale": 0.019001318311464448,
+    "realWorldSizeMeters": 0.019,
+    "colorHex": "#e1cfae",
+    "textured": true,
+    "triangles": 90006,
+    "bounds": {
+      "min": [
+        -0.0414014719,
+        -0.450284213,
+        -0.499956727
+      ],
+      "max": [
+        0.0413905457,
+        0.450392902,
+        0.499973893
+      ]
+    },
+    "materialFamily": "gem",
+    "triangleBudget": 90000,
+    "instanceKey": "micro-pav--eternity-band:gem",
+    "generatedAt": "2026-07-27T17:38:28.969Z",
+    "sourcePhotoName": "Micropave.jpg"
   }
 ]
