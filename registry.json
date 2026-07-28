@@ -345,5 +345,30 @@
     "instanceKey": "princess-duo-seg:gem",
     "generatedAt": "2026-07-28T20:00:10.320Z",
     "sourcePhotoName": "two rings 3d model.glb"
+  },
+  {
+    "id": "ruby-flower-studio",
+    "displayName": "Ruby Flower Ring (Studio)",
+    "modelPath": "assets/models/ruby-flower-studio.glb",
+    "scale": 0.030615715220519955,
+    "realWorldSizeMeters": 0.03,
+    "triangles": 89923,
+    "bounds": {
+      "min": [
+        -0.490112305,
+        0.000244140625,
+        -0.360855103
+      ],
+      "max": [
+        0.489776611,
+        0.978668213,
+        0.360916138
+      ]
+    },
+    "materialFamily": "gem",
+    "triangleBudget": 90000,
+    "instanceKey": "ruby-flower-studio:gem",
+    "generatedAt": "2026-07-28T13:15:01.573Z",
+    "sourcePhotoName": "flower ring 3d model.glb"
   }
 ]
