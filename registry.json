@@ -726,32 +726,6 @@
     "sourcePhotoName": "Angara solitaire.jpg"
   },
   {
-    "id": "auto-bangle-stone-colors-2026-07-26t18-27-24",
-    "displayName": "Auto bangle — mixed stone colours",
-    "modelPath": "assets/models/auto-bangle-stone-colors-2026-07-26t18-27-24.glb",
-    "scale": 0.03689638186046607,
-    "realWorldSizeMeters": 0.07,
-    "textured": true,
-    "triangles": 27207,
-    "bounds": {
-      "min": [
-        -0.949033976,
-        -0.945122123,
-        -0.111162938
-      ],
-      "max": [
-        0.94817102,
-        0.945743144,
-        0.10825792
-      ]
-    },
-    "materialFamily": "gem",
-    "triangleBudget": 15000,
-    "instanceKey": "auto-bangle-stone-colors-2026-07-26t18-27-24:gem",
-    "generatedAt": "2026-07-26T18:38:51.730Z",
-    "sourcePhotoName": "auto-bangle-stone-colors.png"
-  },
-  {
     "id": "auto-ring-gold-stones-2026-07-26t18-27-24",
     "displayName": "Auto ring — gold and stones",
     "modelPath": "assets/models/auto-ring-gold-stones-2026-07-26t18-27-24.glb",
