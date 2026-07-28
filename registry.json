@@ -1,28 +1,5 @@
 [
   {
-    "id": "precious-4",
-    "displayName": "precious 4",
-    "modelPath": "assets/models/precious-4.glb",
-    "scale": 0.013189380975507415,
-    "realWorldSizeMeters": 0.025,
-    "triangles": 33322,
-    "bounds": {
-      "min": [
-        -0.741966009,
-        -0.947101116,
-        -0.395817965
-      ],
-      "max": [
-        0.740150988,
-        0.948363125,
-        0.394294143
-      ]
-    },
-    "materialFamily": "gem",
-    "triangleBudget": 15000,
-    "instanceKey": "precious-4:gem"
-  },
-  {
     "id": "tissot-watch-1",
     "displayName": "tissot watch 1",
     "modelPath": "assets/models/tissot-watch-1.glb",
