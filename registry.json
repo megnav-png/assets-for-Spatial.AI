@@ -23,29 +23,6 @@
     "instanceKey": "luxury-watch:metal"
   },
   {
-    "id": "alloy-wheel",
-    "displayName": "alloy wheel",
-    "modelPath": "assets/models/alloy-wheel.glb",
-    "scale": 0.2529017817399973,
-    "realWorldSizeMeters": 0.48,
-    "triangles": 19930,
-    "bounds": {
-      "min": [
-        -0.950191021,
-        -0.949925125,
-        -0.445968121
-      ],
-      "max": [
-        0.947779,
-        0.947847188,
-        0.444799006
-      ]
-    },
-    "materialFamily": "metal",
-    "triangleBudget": 20000,
-    "instanceKey": "alloy-wheel:metal"
-  },
-  {
     "id": "gem",
     "displayName": "gem",
     "modelPath": "assets/models/gem.glb",
