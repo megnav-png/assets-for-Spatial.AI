@@ -715,33 +715,6 @@
     "sourcePhotoName": "Micropave.jpg"
   },
   {
-    "id": "deep-red-ruby-cocktail-ring-",
-    "displayName": "Deep red ruby cocktail ring",
-    "modelPath": "assets/models/deep-red-ruby-cocktail-ring-.glb",
-    "scale": 0.02500135384831224,
-    "realWorldSizeMeters": 0.025,
-    "colorHex": "#d5ae75",
-    "textured": true,
-    "triangles": 89996,
-    "bounds": {
-      "min": [
-        -0.498584896,
-        -0.499946058,
-        -0.175741822
-      ],
-      "max": [
-        0.498549432,
-        0.499999791,
-        0.175753385
-      ]
-    },
-    "materialFamily": "gem",
-    "triangleBudget": 90000,
-    "instanceKey": "deep-red-ruby-cocktail-ring-:gem",
-    "generatedAt": "2026-07-27T17:50:59.290Z",
-    "sourcePhotoName": "Screenshot 2026-07-27 at 11.10.42â¯PM.png"
-  },
-  {
     "id": "single-south-sea-pearl",
     "displayName": "Single South Sea pearl",
     "modelPath": "assets/models/single-south-sea-pearl.glb",
