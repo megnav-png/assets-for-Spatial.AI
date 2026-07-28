@@ -158,33 +158,6 @@
     "sourcePhotoName": "ChatGPT Image Jul 27, 2026, 01_39_59 AM.png"
   },
   {
-    "id": "sapphire-emerald-cut-ring",
-    "displayName": "Sapphire Emerald-Cut Ring",
-    "modelPath": "assets/models/sapphire-emerald-cut-ring.glb",
-    "scale": 0.2000119991198512,
-    "realWorldSizeMeters": 0.2,
-    "colorHex": "#d3d5d5",
-    "textured": true,
-    "triangles": 14998,
-    "bounds": {
-      "min": [
-        -0.499975652,
-        -0.145722926,
-        -0.416393846
-      ],
-      "max": [
-        0.499964356,
-        0.145061165,
-        0.416623384
-      ]
-    },
-    "materialFamily": "gem",
-    "triangleBudget": 15000,
-    "instanceKey": "sapphire-emerald-cut-ring:gem",
-    "generatedAt": "2026-07-27T10:20:52.699Z",
-    "sourcePhotoName": "pexels-kartik-32806535.jpg"
-  },
-  {
     "id": "gold-chain",
     "displayName": "gold chain",
     "modelPath": "assets/models/gold-chain.glb",
