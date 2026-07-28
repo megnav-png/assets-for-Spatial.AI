@@ -99,31 +99,6 @@
     "instanceKey": "ring-2:gem"
   },
   {
-    "id": "ring-3",
-    "displayName": "ring 3",
-    "modelPath": "assets/models/ring-3.glb",
-    "scale": 0.1054599775177467,
-    "realWorldSizeMeters": 0.2,
-    "colorHex": "#c8aa8d",
-    "textured": true,
-    "triangles": 42103,
-    "bounds": {
-      "min": [
-        -0.949711025,
-        -0.875294149,
-        -0.44304803
-      ],
-      "max": [
-        0.946743011,
-        0.874152124,
-        0.441050977
-      ]
-    },
-    "materialFamily": "metal",
-    "triangleBudget": 18000,
-    "instanceKey": "ring-3:metal"
-  },
-  {
     "id": "ring-4",
     "displayName": "ring 4",
     "modelPath": "assets/models/ring-4.glb",
