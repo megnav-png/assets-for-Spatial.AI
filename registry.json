@@ -1122,5 +1122,32 @@
     "instanceKey": "gold-kada:metal",
     "generatedAt": "2026-07-28T07:01:48.054Z",
     "sourcePhotoName": "Screenshot 2026-07-28 at 12.29.52â¯PM.png"
+  },
+  {
+    "id": "apollo-pendant",
+    "displayName": "apollo pendant",
+    "modelPath": "assets/models/apollo-pendant.glb",
+    "scale": 0.025006259316769582,
+    "realWorldSizeMeters": 0.025,
+    "colorHex": "#d5ae77",
+    "textured": true,
+    "triangles": 89908,
+    "bounds": {
+      "min": [
+        -0.273769408,
+        -0.495254278,
+        -0.499969274
+      ],
+      "max": [
+        0.273775995,
+        0.495004326,
+        0.499780416
+      ]
+    },
+    "materialFamily": "metal",
+    "triangleBudget": 90000,
+    "instanceKey": "apollo-pendant:metal",
+    "generatedAt": "2026-07-28T08:32:54.494Z",
+    "sourcePhotoName": "Screenshot 2026-07-28 at 1.57.48â¯PM.png"
   }
 ]
