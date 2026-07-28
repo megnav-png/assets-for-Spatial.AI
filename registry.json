@@ -237,33 +237,6 @@
     "sourcePhotoName": "Untitled design (33).png"
   },
   {
-    "id": "sapphire-emerald-ring-5",
-    "displayName": "sapphire-emerald-ring-5",
-    "modelPath": "assets/models/sapphire-emerald-ring-5.glb",
-    "scale": 0.15008619299977782,
-    "realWorldSizeMeters": 0.15,
-    "colorHex": "#d3d5d5",
-    "textured": true,
-    "triangles": 14953,
-    "bounds": {
-      "min": [
-        -0.499498755,
-        -0.145562813,
-        -0.419375002
-      ],
-      "max": [
-        0.499926955,
-        0.145705983,
-        0.419501394
-      ]
-    },
-    "materialFamily": "gem",
-    "triangleBudget": 15000,
-    "instanceKey": "sapphire-emerald-ring-5:gem",
-    "generatedAt": "2026-07-27T11:23:15.650Z",
-    "sourcePhotoName": "pexels-kartik-32806535.jpg"
-  },
-  {
     "id": "trinity-style-ring",
     "displayName": "Trinity style ring",
     "modelPath": "assets/models/trinity-style-ring.glb",
