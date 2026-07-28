@@ -399,7 +399,7 @@
   },
   {
     "id": "watch-mk",
-    "displayName": "watch mk",
+    "displayName": "Michael Kors Chronograph",
     "modelPath": "assets/models/watch-mk.glb",
     "scale": 0.045945036473742276,
     "realWorldSizeMeters": 0.045,
@@ -420,6 +420,7 @@
     "triangleBudget": 90000,
     "instanceKey": "watch-mk:metal",
     "generatedAt": "2026-07-28T23:51:27.085Z",
-    "sourcePhotoName": "Watch MK.glb"
+    "sourcePhotoName": "Watch MK.glb",
+    "collection": "watches"
   }
 ]
