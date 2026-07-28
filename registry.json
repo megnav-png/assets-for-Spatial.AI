@@ -391,10 +391,35 @@
       ]
     },
     "materialFamily": "metal",
+    "collection": "watches",
     "triangleBudget": 90000,
     "instanceKey": "watch-curren-4:metal",
     "generatedAt": "2026-07-28T23:03:55.864Z",
-    "sourcePhotoName": "wristwatch 3d model (1).glb",
-    "collection": "watches"
+    "sourcePhotoName": "wristwatch 3d model (1).glb"
+  },
+  {
+    "id": "watch-mk",
+    "displayName": "watch mk",
+    "modelPath": "assets/models/watch-mk.glb",
+    "scale": 0.045945036473742276,
+    "realWorldSizeMeters": 0.045,
+    "triangles": 90038,
+    "bounds": {
+      "min": [
+        -0.372924805,
+        0.000213623047,
+        -0.35949707
+      ],
+      "max": [
+        0.37298584,
+        0.979644775,
+        0.359405518
+      ]
+    },
+    "materialFamily": "metal",
+    "triangleBudget": 90000,
+    "instanceKey": "watch-mk:metal",
+    "generatedAt": "2026-07-28T23:51:27.085Z",
+    "sourcePhotoName": "Watch MK.glb"
   }
 ]
