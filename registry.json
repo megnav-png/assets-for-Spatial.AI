@@ -320,5 +320,30 @@
     "instanceKey": "ruby-diamond-flower-ring:gem",
     "generatedAt": "2026-07-28T11:40:15.989Z",
     "sourcePhotoName": "Screenshot 2026-07-28 at 3.56.03â¯PM.png"
+  },
+  {
+    "id": "princess-duo-seg",
+    "displayName": "Princess Duo (Segmented)",
+    "modelPath": "assets/models/princess-duo-seg.glb",
+    "scale": 0.022002014350419822,
+    "realWorldSizeMeters": 0.022,
+    "triangles": 90034,
+    "bounds": {
+      "min": [
+        -0.470458984,
+        0.000183105469,
+        -0.499938965
+      ],
+      "max": [
+        0.470489502,
+        0.428909302,
+        0.499969482
+      ]
+    },
+    "materialFamily": "gem",
+    "triangleBudget": 90000,
+    "instanceKey": "princess-duo-seg:gem",
+    "generatedAt": "2026-07-28T20:00:10.320Z",
+    "sourcePhotoName": "two rings 3d model.glb"
   }
 ]
