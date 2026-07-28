@@ -23,29 +23,6 @@
     "instanceKey": "luxury-watch:metal"
   },
   {
-    "id": "gem",
-    "displayName": "gem",
-    "modelPath": "assets/models/gem.glb",
-    "scale": 0.052746308052760704,
-    "realWorldSizeMeters": 0.1,
-    "triangles": 19995,
-    "bounds": {
-      "min": [
-        -0.841421008,
-        -0.583815157,
-        -0.948766172
-      ],
-      "max": [
-        0.839446008,
-        0.580304027,
-        0.947101116
-      ]
-    },
-    "materialFamily": "gem",
-    "triangleBudget": 20000,
-    "instanceKey": "gem:gem"
-  },
-  {
     "id": "precious-4",
     "displayName": "precious 4",
     "modelPath": "assets/models/precious-4.glb",
