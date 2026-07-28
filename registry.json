@@ -674,33 +674,6 @@
     "sourcePhotoName": "pexels-kartik-32806535.jpg"
   },
   {
-    "id": "auto-bangle-gold-stones-2026-07-26t19-39-08",
-    "displayName": "Auto bangle — gold and stones",
-    "modelPath": "assets/models/auto-bangle-gold-stones-2026-07-26t19-39-08.glb",
-    "scale": 0.0368619713824002,
-    "realWorldSizeMeters": 0.07,
-    "colorHex": "#d4af37",
-    "textured": true,
-    "triangles": 34994,
-    "bounds": {
-      "min": [
-        -0.950380027,
-        -0.949638128,
-        -0.127818957
-      ],
-      "max": [
-        0.948596001,
-        0.948759139,
-        0.125856906
-      ]
-    },
-    "materialFamily": "gem",
-    "triangleBudget": 35000,
-    "instanceKey": "auto-bangle-gold-stones-2026-07-26t19-39-08:gem",
-    "generatedAt": "2026-07-26T19:39:23.239Z",
-    "sourcePhotoName": "auto-bangle-gold-stones.png"
-  },
-  {
     "id": "gold-chain",
     "displayName": "gold chain",
     "modelPath": "assets/models/gold-chain.glb",
