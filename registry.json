@@ -237,33 +237,6 @@
     "sourcePhotoName": "Untitled design (33).png"
   },
   {
-    "id": "sapphire-emerald-cut-ring-3",
-    "displayName": "sapphire emerald cut ring 3",
-    "modelPath": "assets/models/sapphire-emerald-cut-ring-3.glb",
-    "scale": 0.020004779041689166,
-    "realWorldSizeMeters": 0.02,
-    "colorHex": "#d3d5d5",
-    "textured": true,
-    "triangles": 15042,
-    "bounds": {
-      "min": [
-        -0.499797821,
-        -0.144734442,
-        -0.413358897
-      ],
-      "max": [
-        0.499963284,
-        0.144409567,
-        0.413670152
-      ]
-    },
-    "materialFamily": "gem",
-    "triangleBudget": 15000,
-    "instanceKey": "sapphire-emerald-cut-ring-3:gem",
-    "generatedAt": "2026-07-27T10:35:33.137Z",
-    "sourcePhotoName": "pexels-kartik-32806535.jpg"
-  },
-  {
     "id": "sapphire-emerald-ring-5",
     "displayName": "sapphire-emerald-ring-5",
     "modelPath": "assets/models/sapphire-emerald-ring-5.glb",
