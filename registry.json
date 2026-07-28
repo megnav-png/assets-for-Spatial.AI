@@ -291,31 +291,6 @@
     "instanceKey": "necklace-3:metal"
   },
   {
-    "id": "car-paint-6",
-    "displayName": "car paint 6",
-    "modelPath": "assets/models/car-paint-6.glb",
-    "scale": 0.15795432960217598,
-    "realWorldSizeMeters": 0.3,
-    "colorHex": "#04c851",
-    "textured": true,
-    "triangles": 44993,
-    "bounds": {
-      "min": [
-        -0.645025015,
-        -0.668528199,
-        -0.950291097
-      ],
-      "max": [
-        0.642929018,
-        0.666697085,
-        0.948992074
-      ]
-    },
-    "materialFamily": "car-paint",
-    "triangleBudget": 45000,
-    "instanceKey": "car-paint-6:car-paint"
-  },
-  {
     "id": "ring-2",
     "displayName": "ring 2",
     "modelPath": "assets/models/ring-2.glb",
