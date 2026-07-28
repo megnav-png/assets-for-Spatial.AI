@@ -1095,5 +1095,32 @@
     "instanceKey": "asset-b:gem",
     "generatedAt": "2026-07-27T18:19:23.958Z",
     "sourcePhotoName": "Screenshot 2026-07-27 at 11.10.42â¯PM.png"
+  },
+  {
+    "id": "gold-kada",
+    "displayName": "gold kada",
+    "modelPath": "assets/models/gold-kada.glb",
+    "scale": 0.0650248863895439,
+    "realWorldSizeMeters": 0.065,
+    "colorHex": "#ebbf7a",
+    "textured": true,
+    "triangles": 45042,
+    "bounds": {
+      "min": [
+        -0.499728382,
+        -0.499845475,
+        -0.0541738421
+      ],
+      "max": [
+        0.49973771,
+        0.499771804,
+        0.0541542135
+      ]
+    },
+    "materialFamily": "metal",
+    "triangleBudget": 45000,
+    "instanceKey": "gold-kada:metal",
+    "generatedAt": "2026-07-28T07:01:48.054Z",
+    "sourcePhotoName": "Screenshot 2026-07-28 at 12.29.52â¯PM.png"
   }
 ]
