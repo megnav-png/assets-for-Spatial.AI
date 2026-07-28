@@ -169,29 +169,6 @@
     "instanceKey": "necklace-2:metal"
   },
   {
-    "id": "fabric",
-    "displayName": "Fabric",
-    "modelPath": "assets/models/fabric.glb",
-    "scale": 0.2633577334958147,
-    "realWorldSizeMeters": 0.5,
-    "triangles": 33965,
-    "bounds": {
-      "min": [
-        -0.81920898,
-        -0.566895187,
-        -0.950101197
-      ],
-      "max": [
-        0.819391012,
-        0.566261113,
-        0.948457062
-      ]
-    },
-    "materialFamily": "fabric",
-    "triangleBudget": 12000,
-    "instanceKey": "fabric:fabric"
-  },
-  {
     "id": "tissot-watch-1",
     "displayName": "tissot watch 1",
     "modelPath": "assets/models/tissot-watch-1.glb",
