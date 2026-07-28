@@ -293,5 +293,32 @@
     "instanceKey": "apollo-pendant:metal",
     "generatedAt": "2026-07-28T08:32:54.494Z",
     "sourcePhotoName": "Screenshot 2026-07-28 at 1.57.48â¯PM.png"
+  },
+  {
+    "id": "ruby-diamond-flower-ring",
+    "displayName": "ruby diamond flower ring",
+    "modelPath": "assets/models/ruby-diamond-flower-ring.glb",
+    "scale": 0.030002148603872264,
+    "realWorldSizeMeters": 0.03,
+    "colorHex": "#c88386",
+    "textured": true,
+    "triangles": 89984,
+    "bounds": {
+      "min": [
+        -0.499961972,
+        -0.484924704,
+        -0.475038141
+      ],
+      "max": [
+        0.499966413,
+        0.485418379,
+        0.475055963
+      ]
+    },
+    "materialFamily": "gem",
+    "triangleBudget": 90000,
+    "instanceKey": "ruby-diamond-flower-ring:gem",
+    "generatedAt": "2026-07-28T11:40:15.989Z",
+    "sourcePhotoName": "Screenshot 2026-07-28 at 3.56.03â¯PM.png"
   }
 ]
