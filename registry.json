@@ -1,29 +1,5 @@
 [
   {
-    "id": "tissot-watch-1",
-    "displayName": "tissot watch 1",
-    "modelPath": "assets/models/tissot-watch-1.glb",
-    "scale": 0.10547894349746041,
-    "realWorldSizeMeters": 0.2,
-    "colorHex": "#c8c8c5",
-    "triangles": 18973,
-    "bounds": {
-      "min": [
-        -0.94955802,
-        -0.415015072,
-        -0.52196002
-      ],
-      "max": [
-        0.946555018,
-        0.412730128,
-        0.523100019
-      ]
-    },
-    "materialFamily": "metal",
-    "triangleBudget": 18000,
-    "instanceKey": "tissot-watch-1:metal"
-  },
-  {
     "id": "tissot-watch-2",
     "displayName": "tissot watch 2",
     "modelPath": "assets/models/tissot-watch-2.glb",
