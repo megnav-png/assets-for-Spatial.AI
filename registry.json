@@ -652,6 +652,7 @@
     "triangleBudget": 500000,
     "instanceKey": "un-torpilleur-white:metal",
     "generatedAt": "2026-07-29T14:22:20.388Z",
-    "sourcePhotoName": "sweep-unwhite.glb"
+    "sourcePhotoName": "sweep-unwhite.glb",
+    "collection": "watches"
   }
 ]
