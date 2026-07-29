@@ -677,6 +677,7 @@
     "triangleBudget": 500000,
     "instanceKey": "cd-atelier-skeleton:metal",
     "generatedAt": "2026-07-29T17:27:03.097Z",
-    "sourcePhotoName": "cd-watch.glb"
+    "sourcePhotoName": "cd-watch.glb",
+    "collection": "watches"
   }
 ]
