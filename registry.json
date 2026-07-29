@@ -604,5 +604,30 @@
     "instanceKey": "dillano-tanzanite-bracelet-mv-test:gem",
     "generatedAt": "2026-07-29T03:23:12.657Z",
     "sourcePhotoName": "tanzanite-lumiere-bracelet.png, tanzanite-view3.png"
+  },
+  {
+    "id": "watch-un-torpilleur",
+    "displayName": "Ulysse Nardin Marine Torpilleur",
+    "modelPath": "assets/models/watch-un-torpilleur.glb",
+    "scale": 0.22463417682070022,
+    "realWorldSizeMeters": 0.22,
+    "triangles": 89936,
+    "bounds": {
+      "min": [
+        -0.293487549,
+        0.0000610351562,
+        -0.134414673
+      ],
+      "max": [
+        0.293457031,
+        0.979431152,
+        0.134521484
+      ]
+    },
+    "materialFamily": "metal",
+    "triangleBudget": 90000,
+    "instanceKey": "watch-un-torpilleur:metal",
+    "generatedAt": "2026-07-29T04:40:35.949Z",
+    "sourcePhotoName": "UN NOCTURNE.glb"
   }
 ]
