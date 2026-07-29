@@ -674,10 +674,36 @@
       ]
     },
     "materialFamily": "metal",
+    "collection": "watches",
     "triangleBudget": 90000,
     "instanceKey": "un-torpilleur-white:metal",
     "generatedAt": "2026-07-29T12:00:55.411Z",
-    "sourcePhotoName": "mesh-unwhite.glb",
-    "collection": "watches"
+    "sourcePhotoName": "mesh-unwhite.glb"
+  },
+  {
+    "id": "dillano-emerald-necklace-meshy-test2",
+    "displayName": "Emerald Lust Necklace (Meshy test 2)",
+    "modelPath": "assets/models/dillano-emerald-necklace-meshy-test2.glb",
+    "scale": 0.08442456626632357,
+    "realWorldSizeMeters": 0.16,
+    "textured": true,
+    "triangles": 109993,
+    "bounds": {
+      "min": [
+        -0.9484599828720093,
+        -0.678921103477478,
+        -0.6133059859275818
+      ],
+      "max": [
+        0.9467229843139648,
+        0.676949143409729,
+        0.6102200150489807
+      ]
+    },
+    "materialFamily": "gem",
+    "triangleBudget": 110000,
+    "instanceKey": "dillano-emerald-necklace-meshy-test2:gem",
+    "generatedAt": "2026-07-29T11:58:12.719Z",
+    "sourcePhotoName": "emerald-lust-necklace.jpg"
   }
 ]
