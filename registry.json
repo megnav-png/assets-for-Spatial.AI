@@ -628,7 +628,8 @@
     "triangleBudget": 90000,
     "instanceKey": "rolex-light:metal",
     "generatedAt": "2026-07-29T05:32:51.751Z",
-    "sourcePhotoName": "Rolex Light.glb"
+    "sourcePhotoName": "Rolex Light.glb",
+    "collection": "watches"
   },
   {
     "id": "dillano-ruby-hoops-meshy4k-test",
