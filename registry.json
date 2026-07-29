@@ -648,10 +648,35 @@
       ]
     },
     "materialFamily": "metal",
+    "collection": "watches",
     "triangleBudget": 500000,
     "instanceKey": "rado-centrix-openheart:metal",
     "generatedAt": "2026-07-29T15:04:47.632Z",
-    "sourcePhotoName": "sweep-rado.glb",
-    "collection": "watches"
+    "sourcePhotoName": "sweep-rado.glb"
+  },
+  {
+    "id": "cd-atelier-skeleton",
+    "displayName": "Atelier Skeleton (CD reference)",
+    "modelPath": "assets/models/cd-atelier-skeleton.glb",
+    "scale": 0.9231520534517348,
+    "realWorldSizeMeters": 0.117,
+    "triangles": 55886,
+    "bounds": {
+      "min": [
+        -0.0211999994,
+        -0.00672291964,
+        -0.0576370843
+      ],
+      "max": [
+        0.023599999,
+        0.006829999967999999,
+        0.0691026002
+      ]
+    },
+    "materialFamily": "metal",
+    "triangleBudget": 500000,
+    "instanceKey": "cd-atelier-skeleton:metal",
+    "generatedAt": "2026-07-29T17:27:03.097Z",
+    "sourcePhotoName": "cd-watch.glb"
   }
 ]
