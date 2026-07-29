@@ -627,5 +627,30 @@
     "instanceKey": "un-diver-rosegold:metal",
     "generatedAt": "2026-07-29T14:47:29.995Z",
     "sourcePhotoName": "sweep-unred.glb"
+  },
+  {
+    "id": "hublot-classic-pave",
+    "displayName": "Hublot Classic Fusion Pavé",
+    "modelPath": "assets/models/hublot-classic-pave.glb",
+    "scale": 0.11583208812653951,
+    "realWorldSizeMeters": 0.22,
+    "triangles": 333332,
+    "bounds": {
+      "min": [
+        -0.619153976,
+        -0.950514019,
+        -0.828531027
+      ],
+      "max": [
+        0.616994023,
+        0.948786974,
+        0.833293021
+      ]
+    },
+    "materialFamily": "metal",
+    "triangleBudget": 500000,
+    "instanceKey": "hublot-classic-pave:metal",
+    "generatedAt": "2026-07-29T14:56:03.684Z",
+    "sourcePhotoName": "sweep-hublot.glb"
   }
 ]
