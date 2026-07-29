@@ -726,10 +726,35 @@
       ]
     },
     "materialFamily": "metal",
+    "collection": "watches",
     "triangleBudget": 90000,
     "instanceKey": "un-diver-rosegold:metal",
     "generatedAt": "2026-07-29T12:15:29.049Z",
-    "sourcePhotoName": "mesh-unred.glb",
-    "collection": "watches"
+    "sourcePhotoName": "mesh-unred.glb"
+  },
+  {
+    "id": "rolex-datejust-ice",
+    "displayName": "Rolex Datejust",
+    "modelPath": "assets/models/rolex-datejust-ice.glb",
+    "scale": 0.11581493303711916,
+    "realWorldSizeMeters": 0.22,
+    "triangles": 88446,
+    "bounds": {
+      "min": [
+        -0.368588001,
+        -0.950719178,
+        -0.716562986
+      ],
+      "max": [
+        0.366759002,
+        0.948863149,
+        0.714258134
+      ]
+    },
+    "materialFamily": "metal",
+    "triangleBudget": 90000,
+    "instanceKey": "rolex-datejust-ice:metal",
+    "generatedAt": "2026-07-29T12:20:27.932Z",
+    "sourcePhotoName": "mesh-silver.glb"
   }
 ]
