@@ -528,32 +528,6 @@
     "sourcePhotoName": "sapphire-majesty-ring.jpg"
   },
   {
-    "id": "dillano-ruby-diamond-hoops",
-    "displayName": "Wheel of Ruby & Diamond Hoops",
-    "modelPath": "assets/models/dillano-ruby-diamond-hoops.glb",
-    "scale": 0.09010614738437864,
-    "realWorldSizeMeters": 0.09,
-    "textured": true,
-    "triangles": 22430,
-    "bounds": {
-      "min": [
-        -0.495690405,
-        -0.499380857,
-        -0.207610741
-      ],
-      "max": [
-        0.49842909,
-        0.499441117,
-        0.208810866
-      ]
-    },
-    "materialFamily": "gem",
-    "triangleBudget": 20000,
-    "instanceKey": "dillano-ruby-diamond-hoops:gem",
-    "generatedAt": "2026-07-29T02:39:27.796Z",
-    "sourcePhotoName": "wheel-of-ruby-diamond-hoops.png"
-  },
-  {
     "id": "dillano-blushing-cascade",
     "displayName": "Blushing Cascade",
     "modelPath": "assets/models/dillano-blushing-cascade.glb",
