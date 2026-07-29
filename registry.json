@@ -607,7 +607,7 @@
   },
   {
     "id": "dillano-tanzanite-bracelet-mv-test",
-    "displayName": "Tanzanite Lumiere Bracelet (multiview test)",
+    "displayName": "Tanzanite Lumiere Bracelet",
     "modelPath": "assets/models/dillano-tanzanite-bracelet-mv-test.glb",
     "scale": 0.06515149266134138,
     "realWorldSizeMeters": 0.065,
