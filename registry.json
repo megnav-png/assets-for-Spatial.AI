@@ -625,11 +625,11 @@
       ]
     },
     "materialFamily": "metal",
+    "collection": "watches",
     "triangleBudget": 90000,
     "instanceKey": "rolex-light:metal",
     "generatedAt": "2026-07-29T05:32:51.751Z",
-    "sourcePhotoName": "Rolex Light.glb",
-    "collection": "watches"
+    "sourcePhotoName": "Rolex Light.glb"
   },
   {
     "id": "dillano-ruby-hoops-meshy4k-test",
@@ -656,5 +656,30 @@
     "instanceKey": "dillano-ruby-hoops-meshy4k-test:gem",
     "generatedAt": "2026-07-29T05:49:18.667Z",
     "sourcePhotoName": "wheel-of-ruby-diamond-hoops.png"
+  },
+  {
+    "id": "dillano-ruby-hoops-compress-test",
+    "displayName": "Wheel of Ruby & Diamond Hoops (compressed test)",
+    "modelPath": "assets/models/dillano-ruby-hoops-compress-test.glb",
+    "scale": 0.04738188704275693,
+    "realWorldSizeMeters": 0.09,
+    "triangles": 110000,
+    "bounds": {
+      "min": [
+        -0.9507430195808411,
+        -0.9465152025222778,
+        -0.3791309595108032
+      ],
+      "max": [
+        0.9487169981002808,
+        0.9490051865577698,
+        0.37544316053390503
+      ]
+    },
+    "materialFamily": "gem",
+    "triangleBudget": 110000,
+    "instanceKey": "dillano-ruby-hoops-compress-test:gem",
+    "generatedAt": "2026-07-29T06:18:25.519Z",
+    "sourcePhotoName": "hoops-4k-compressed.glb"
   }
 ]
