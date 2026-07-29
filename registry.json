@@ -729,6 +729,7 @@
     "triangleBudget": 90000,
     "instanceKey": "un-diver-rosegold:metal",
     "generatedAt": "2026-07-29T12:15:29.049Z",
-    "sourcePhotoName": "mesh-unred.glb"
+    "sourcePhotoName": "mesh-unred.glb",
+    "collection": "watches"
   }
 ]
