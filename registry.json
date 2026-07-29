@@ -703,6 +703,7 @@
     "triangleBudget": 90000,
     "instanceKey": "rolex-daytona-gold:metal",
     "generatedAt": "2026-07-29T12:10:33.806Z",
-    "sourcePhotoName": "mesh-softblue.glb"
+    "sourcePhotoName": "mesh-softblue.glb",
+    "collection": "watches"
   }
 ]
