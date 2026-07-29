@@ -446,6 +446,7 @@
     "triangleBudget": 90000,
     "instanceKey": "watch-rolex:metal",
     "generatedAt": "2026-07-29T00:06:53.381Z",
-    "sourcePhotoName": "Watch Rolex.glb"
+    "sourcePhotoName": "Watch Rolex.glb",
+    "collection": "watches"
   }
 ]
