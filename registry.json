@@ -500,32 +500,6 @@
     "sourcePhotoName": "blushing-cascade.jpg"
   },
   {
-    "id": "rolex-daytona-gold",
-    "displayName": "Rolex Cosmograph Daytona",
-    "modelPath": "assets/models/rolex-daytona-gold.glb",
-    "scale": 0.11585799765301083,
-    "realWorldSizeMeters": 0.22,
-    "triangles": 90001,
-    "bounds": {
-      "min": [
-        -0.585825026,
-        -0.950208127,
-        -0.81382513
-      ],
-      "max": [
-        0.580170989,
-        0.948668122,
-        0.81201911
-      ]
-    },
-    "materialFamily": "metal",
-    "collection": "watches",
-    "triangleBudget": 90000,
-    "instanceKey": "rolex-daytona-gold:metal",
-    "generatedAt": "2026-07-29T12:10:33.806Z",
-    "sourcePhotoName": "mesh-softblue.glb"
-  },
-  {
     "id": "un-diver-rosegold",
     "displayName": "Ulysse Nardin Diver",
     "modelPath": "assets/models/un-diver-rosegold.glb",
@@ -649,10 +623,10 @@
       ]
     },
     "materialFamily": "metal",
+    "collection": "watches",
     "triangleBudget": 500000,
     "instanceKey": "rolex-yachtmaster-blue:metal",
     "generatedAt": "2026-07-29T14:31:02.992Z",
-    "sourcePhotoName": "sweep-sea.glb",
-    "collection": "watches"
+    "sourcePhotoName": "sweep-sea.glb"
   }
 ]
