@@ -501,31 +501,6 @@
     "sourcePhotoName": "hoops-4k-compressed.glb"
   },
   {
-    "id": "uc-white",
-    "displayName": "uc white",
-    "modelPath": "assets/models/uc-white.glb",
-    "scale": 0.02555049592518212,
-    "realWorldSizeMeters": 0.025,
-    "triangles": 89908,
-    "bounds": {
-      "min": [
-        -0.281234741,
-        0.0000305175781,
-        -0.375289917
-      ],
-      "max": [
-        0.281265259,
-        0.978485107,
-        0.375289917
-      ]
-    },
-    "materialFamily": "gem",
-    "triangleBudget": 90000,
-    "instanceKey": "uc-white:gem",
-    "generatedAt": "2026-07-29T06:46:17.079Z",
-    "sourcePhotoName": "luxury wristwatch 3d model.glb"
-  },
-  {
     "id": "uc-red-3",
     "displayName": "uc red 3",
     "modelPath": "assets/models/uc-red-3.glb",
