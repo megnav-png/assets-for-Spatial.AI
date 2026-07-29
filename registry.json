@@ -653,5 +653,30 @@
     "instanceKey": "un-torpilleur-white:metal",
     "generatedAt": "2026-07-29T12:00:55.411Z",
     "sourcePhotoName": "mesh-unwhite.glb"
+  },
+  {
+    "id": "rolex-yachtmaster-blue",
+    "displayName": "Rolex Yacht-Master II",
+    "modelPath": "assets/models/rolex-yachtmaster-blue.glb",
+    "scale": 0.11583237531359272,
+    "realWorldSizeMeters": 0.22,
+    "triangles": 89995,
+    "bounds": {
+      "min": [
+        -0.568484008,
+        -0.95056814,
+        -0.824948132
+      ],
+      "max": [
+        0.567377985,
+        0.948728144,
+        0.822225094
+      ]
+    },
+    "materialFamily": "metal",
+    "triangleBudget": 90000,
+    "instanceKey": "rolex-yachtmaster-blue:metal",
+    "generatedAt": "2026-07-29T12:05:38.815Z",
+    "sourcePhotoName": "mesh-sea.glb"
   }
 ]
