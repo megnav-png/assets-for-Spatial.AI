@@ -500,32 +500,6 @@
     "sourcePhotoName": "blushing-cascade.jpg"
   },
   {
-    "id": "un-diver-rosegold",
-    "displayName": "Ulysse Nardin Diver",
-    "modelPath": "assets/models/un-diver-rosegold.glb",
-    "scale": 0.11584451787755884,
-    "realWorldSizeMeters": 0.22,
-    "triangles": 90002,
-    "bounds": {
-      "min": [
-        -0.578830004,
-        -0.950547099,
-        -0.920488119
-      ],
-      "max": [
-        0.579744995,
-        0.948550105,
-        0.920713067
-      ]
-    },
-    "materialFamily": "metal",
-    "collection": "watches",
-    "triangleBudget": 90000,
-    "instanceKey": "un-diver-rosegold:metal",
-    "generatedAt": "2026-07-29T12:15:29.049Z",
-    "sourcePhotoName": "mesh-unred.glb"
-  },
-  {
     "id": "hublot-classic-pave",
     "displayName": "Hublot Classic Fusion Pavé",
     "modelPath": "assets/models/hublot-classic-pave.glb",
