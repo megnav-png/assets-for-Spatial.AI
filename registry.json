@@ -627,5 +627,31 @@
     "instanceKey": "uc-red-3:metal",
     "generatedAt": "2026-07-29T08:15:48.076Z",
     "sourcePhotoName": "luxury watch 3d model.glb"
+  },
+  {
+    "id": "dillano-blushing-cascade-meshy-test",
+    "displayName": "Blushing Cascade (Meshy test)",
+    "modelPath": "assets/models/dillano-blushing-cascade-meshy-test.glb",
+    "scale": 0.047436299163676324,
+    "realWorldSizeMeters": 0.09,
+    "textured": true,
+    "triangles": 110001,
+    "bounds": {
+      "min": [
+        -0.8232460021972656,
+        -0.9489251375198364,
+        -0.3293150067329407
+      ],
+      "max": [
+        0.8208249807357788,
+        0.9483560919761658,
+        0.3338010013103485
+      ]
+    },
+    "materialFamily": "gem",
+    "triangleBudget": 110000,
+    "instanceKey": "dillano-blushing-cascade-meshy-test:gem",
+    "generatedAt": "2026-07-29T11:39:02.353Z",
+    "sourcePhotoName": "blushing-cascade.jpg"
   }
 ]
