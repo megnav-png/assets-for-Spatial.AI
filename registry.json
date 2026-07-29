@@ -604,7 +604,7 @@
   },
   {
     "id": "dillano-blushing-cascade-meshy-test",
-    "displayName": "Blushing Cascade (Meshy test)",
+    "displayName": "Blushing Cascade",
     "modelPath": "assets/models/dillano-blushing-cascade-meshy-test.glb",
     "scale": 0.047436299163676324,
     "realWorldSizeMeters": 0.09,
