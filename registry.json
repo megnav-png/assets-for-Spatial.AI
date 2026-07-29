@@ -709,7 +709,7 @@
   },
   {
     "id": "dillano-ruby-hoops-meshy4k-test",
-    "displayName": "Wheel of Ruby & Diamond Hoops (Meshy 4K test)",
+    "displayName": "Wheel of Ruby & Diamond Hoops",
     "modelPath": "assets/models/dillano-ruby-hoops-meshy4k-test.glb",
     "scale": 0.04738188703480253,
     "realWorldSizeMeters": 0.09,
