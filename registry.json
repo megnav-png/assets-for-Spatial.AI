@@ -655,5 +655,30 @@
     "instanceKey": "un-marine-torpilleur-dual-time:metal",
     "generatedAt": "2026-07-29T04:58:20.696Z",
     "sourcePhotoName": "UN NOCTURNE.glb"
+  },
+  {
+    "id": "rolex-light",
+    "displayName": "rolex light",
+    "modelPath": "assets/models/rolex-light.glb",
+    "scale": 0.042862001297110146,
+    "realWorldSizeMeters": 0.042,
+    "triangles": 90077,
+    "bounds": {
+      "min": [
+        -0.260971069,
+        0.0000915527344,
+        -0.383636475
+      ],
+      "max": [
+        0.261001587,
+        0.979980469,
+        0.383178711
+      ]
+    },
+    "materialFamily": "metal",
+    "triangleBudget": 90000,
+    "instanceKey": "rolex-light:metal",
+    "generatedAt": "2026-07-29T05:32:51.751Z",
+    "sourcePhotoName": "Rolex Light.glb"
   }
 ]
