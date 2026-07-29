@@ -604,31 +604,5 @@
     "instanceKey": "dillano-tanzanite-bracelet-mv-test:gem",
     "generatedAt": "2026-07-29T03:23:12.657Z",
     "sourcePhotoName": "tanzanite-lumiere-bracelet.png, tanzanite-view3.png"
-  },
-  {
-    "id": "dillano-blushing-cascade-mv",
-    "displayName": "Blushing Cascade",
-    "modelPath": "assets/models/dillano-blushing-cascade-mv.glb",
-    "scale": 0.09002462407532483,
-    "realWorldSizeMeters": 0.09,
-    "textured": true,
-    "triangles": 20230,
-    "bounds": {
-      "min": [
-        -0.299527168,
-        -0.499976814,
-        -0.441303164
-      ],
-      "max": [
-        0.299321353,
-        0.49974966,
-        0.440544873
-      ]
-    },
-    "materialFamily": "gem",
-    "triangleBudget": 20000,
-    "instanceKey": "dillano-blushing-cascade-mv:gem",
-    "generatedAt": "2026-07-29T03:45:20.011Z",
-    "sourcePhotoName": "blushing-cascade.jpg, cascade-view2.jpg"
   }
 ]
