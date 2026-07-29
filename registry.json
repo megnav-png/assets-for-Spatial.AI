@@ -651,6 +651,7 @@
     "triangleBudget": 500000,
     "instanceKey": "rado-centrix-openheart:metal",
     "generatedAt": "2026-07-29T15:04:47.632Z",
-    "sourcePhotoName": "sweep-rado.glb"
+    "sourcePhotoName": "sweep-rado.glb",
+    "collection": "watches"
   }
 ]
