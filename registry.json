@@ -554,32 +554,6 @@
     "sourcePhotoName": "wheel-of-ruby-diamond-hoops.png"
   },
   {
-    "id": "dillano-tanzanite-lumiere-bracelet",
-    "displayName": "Tanzanite Lumiere Bracelet",
-    "modelPath": "assets/models/dillano-tanzanite-lumiere-bracelet.glb",
-    "scale": 0.06512051619498348,
-    "realWorldSizeMeters": 0.065,
-    "textured": true,
-    "triangles": 20072,
-    "bounds": {
-      "min": [
-        -0.493861526,
-        -0.167779952,
-        -0.498506606
-      ],
-      "max": [
-        0.492320538,
-        0.168071732,
-        0.49964273
-      ]
-    },
-    "materialFamily": "gem",
-    "triangleBudget": 20000,
-    "instanceKey": "dillano-tanzanite-lumiere-bracelet:gem",
-    "generatedAt": "2026-07-29T02:41:16.650Z",
-    "sourcePhotoName": "tanzanite-lumiere-bracelet.png"
-  },
-  {
     "id": "dillano-blushing-cascade",
     "displayName": "Blushing Cascade",
     "modelPath": "assets/models/dillano-blushing-cascade.glb",
