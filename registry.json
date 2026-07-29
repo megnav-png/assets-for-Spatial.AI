@@ -627,5 +627,30 @@
     "instanceKey": "dillano-emerald-necklace-cd:gem",
     "generatedAt": "2026-07-29T15:45:35.648Z",
     "sourcePhotoName": "emerald-lust 2.glb"
+  },
+  {
+    "id": "un-diver-rosegold",
+    "displayName": "Ulysse Nardin Diver",
+    "modelPath": "assets/models/un-diver-rosegold.glb",
+    "scale": 0.11585636475887585,
+    "realWorldSizeMeters": 0.22,
+    "triangles": 323632,
+    "bounds": {
+      "min": [
+        -0.606387973,
+        -0.950323999,
+        -0.838198006
+      ],
+      "max": [
+        0.604807973,
+        0.948579013,
+        0.833769023
+      ]
+    },
+    "materialFamily": "metal",
+    "triangleBudget": 500000,
+    "instanceKey": "un-diver-rosegold:metal",
+    "generatedAt": "2026-07-29T14:47:29.995Z",
+    "sourcePhotoName": "sweep-unred.glb"
   }
 ]
