@@ -658,7 +658,7 @@
   },
   {
     "id": "watch-luxury-1",
-    "displayName": "Luxury Wristwatch",
+    "displayName": "UN Marine Tourbillon",
     "modelPath": "assets/models/watch-luxury-1.glb",
     "scale": 0.22484436414160267,
     "realWorldSizeMeters": 0.22,
@@ -679,6 +679,7 @@
     "triangleBudget": 90000,
     "instanceKey": "watch-luxury-1:metal",
     "generatedAt": "2026-07-29T06:35:14.324Z",
-    "sourcePhotoName": "luxury wristwatch 3d model.glb"
+    "sourcePhotoName": "luxury wristwatch 3d model.glb",
+    "collection": "watches"
   }
 ]
