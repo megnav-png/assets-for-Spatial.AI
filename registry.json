@@ -501,31 +501,6 @@
     "sourcePhotoName": "hoops-4k-compressed.glb"
   },
   {
-    "id": "uc-red-3",
-    "displayName": "uc red 3",
-    "modelPath": "assets/models/uc-red-3.glb",
-    "scale": 0.04292617199560599,
-    "realWorldSizeMeters": 0.042,
-    "triangles": 19991,
-    "bounds": {
-      "min": [
-        -0.305633545,
-        0.000579833984,
-        -0.176277176
-      ],
-      "max": [
-        0.306091309,
-        0.979003906,
-        0.176414475
-      ]
-    },
-    "materialFamily": "metal",
-    "triangleBudget": 20000,
-    "instanceKey": "uc-red-3:metal",
-    "generatedAt": "2026-07-29T08:15:48.076Z",
-    "sourcePhotoName": "luxury watch 3d model.glb"
-  },
-  {
     "id": "dillano-blushing-cascade-meshy-test",
     "displayName": "Blushing Cascade",
     "modelPath": "assets/models/dillano-blushing-cascade-meshy-test.glb",
