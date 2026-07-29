@@ -605,7 +605,7 @@
   },
   {
     "id": "dillano-emerald-necklace-cd",
-    "displayName": "Emerald Lust Necklace (CD)",
+    "displayName": "Emerald Lust Necklace",
     "modelPath": "assets/models/dillano-emerald-necklace-cd.glb",
     "scale": 0.8308211973055308,
     "realWorldSizeMeters": 0.16,
