@@ -443,10 +443,35 @@
       ]
     },
     "materialFamily": "metal",
+    "collection": "watches",
     "triangleBudget": 90000,
     "instanceKey": "watch-rolex:metal",
     "generatedAt": "2026-07-29T00:06:53.381Z",
-    "sourcePhotoName": "Watch Rolex.glb",
-    "collection": "watches"
+    "sourcePhotoName": "Watch Rolex.glb"
+  },
+  {
+    "id": "watch-rolex1",
+    "displayName": "watch rolex1",
+    "modelPath": "assets/models/watch-rolex1.glb",
+    "scale": 0.22457119715179763,
+    "realWorldSizeMeters": 0.22,
+    "triangles": 90048,
+    "bounds": {
+      "min": [
+        -0.313262939,
+        0.0000305175781,
+        -0.383148193
+      ],
+      "max": [
+        0.313232422,
+        0.979675293,
+        0.383209229
+      ]
+    },
+    "materialFamily": "metal",
+    "triangleBudget": 90000,
+    "instanceKey": "watch-rolex1:metal",
+    "generatedAt": "2026-07-29T00:23:26.721Z",
+    "sourcePhotoName": "luxury watch 3d model 1.glb"
   }
 ]
