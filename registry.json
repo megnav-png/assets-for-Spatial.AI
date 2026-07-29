@@ -755,6 +755,7 @@
     "triangleBudget": 90000,
     "instanceKey": "hublot-classic-pave:metal",
     "generatedAt": "2026-07-29T12:52:47.192Z",
-    "sourcePhotoName": "mesh-hublot.glb"
+    "sourcePhotoName": "mesh-hublot.glb",
+    "collection": "watches"
   }
 ]
