@@ -630,5 +630,30 @@
     "instanceKey": "watch-un-torpilleur:metal",
     "generatedAt": "2026-07-29T04:40:35.949Z",
     "sourcePhotoName": "UN NOCTURNE.glb"
+  },
+  {
+    "id": "un-marine-torpilleur-dual-time",
+    "displayName": "un-marine-torpilleur-dual-time",
+    "modelPath": "assets/models/un-marine-torpilleur-dual-time.glb",
+    "scale": 0.042884706483951866,
+    "realWorldSizeMeters": 0.042,
+    "triangles": 89936,
+    "bounds": {
+      "min": [
+        -0.293487549,
+        0.0000610351562,
+        -0.134414673
+      ],
+      "max": [
+        0.293457031,
+        0.979431152,
+        0.134521484
+      ]
+    },
+    "materialFamily": "metal",
+    "triangleBudget": 90000,
+    "instanceKey": "un-marine-torpilleur-dual-time:metal",
+    "generatedAt": "2026-07-29T04:58:20.696Z",
+    "sourcePhotoName": "UN NOCTURNE.glb"
   }
 ]
