@@ -629,32 +629,6 @@
     "sourcePhotoName": "blushing-cascade.jpg"
   },
   {
-    "id": "dillano-emerald-necklace-meshy-test",
-    "displayName": "Emerald Lust Necklace (Meshy test)",
-    "modelPath": "assets/models/dillano-emerald-necklace-meshy-test.glb",
-    "scale": 0.08425819843417845,
-    "realWorldSizeMeters": 0.16,
-    "textured": true,
-    "triangles": 109998,
-    "bounds": {
-      "min": [
-        -0.9503949880599976,
-        -0.40433913469314575,
-        -0.6964849829673767
-      ],
-      "max": [
-        0.9485300183296204,
-        0.40257909893989563,
-        0.6937170028686523
-      ]
-    },
-    "materialFamily": "gem",
-    "triangleBudget": 110000,
-    "instanceKey": "dillano-emerald-necklace-meshy-test:gem",
-    "generatedAt": "2026-07-29T11:39:04.790Z",
-    "sourcePhotoName": "emerald-lust-necklace.jpg"
-  },
-  {
     "id": "un-torpilleur-white",
     "displayName": "Ulysse Nardin Marine Torpilleur",
     "modelPath": "assets/models/un-torpilleur-white.glb",
