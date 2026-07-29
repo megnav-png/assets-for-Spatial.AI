@@ -474,32 +474,6 @@
     "sourcePhotoName": "blushing-cascade.jpg"
   },
   {
-    "id": "rado-centrix-openheart",
-    "displayName": "Rado Centrix Open Heart",
-    "modelPath": "assets/models/rado-centrix-openheart.glb",
-    "scale": 0.10530715295082219,
-    "realWorldSizeMeters": 0.2,
-    "triangles": 89999,
-    "bounds": {
-      "min": [
-        -0.507812977,
-        -0.95048213,
-        -0.796156108
-      ],
-      "max": [
-        0.505291998,
-        0.948724091,
-        0.794741035
-      ]
-    },
-    "materialFamily": "metal",
-    "collection": "watches",
-    "triangleBudget": 90000,
-    "instanceKey": "rado-centrix-openheart:metal",
-    "generatedAt": "2026-07-29T12:57:41.651Z",
-    "sourcePhotoName": "mesh-rado.glb"
-  },
-  {
     "id": "un-torpilleur-white",
     "displayName": "Ulysse Nardin Marine Torpilleur",
     "modelPath": "assets/models/un-torpilleur-white.glb",
@@ -648,10 +622,10 @@
       ]
     },
     "materialFamily": "metal",
+    "collection": "watches",
     "triangleBudget": 500000,
     "instanceKey": "hublot-classic-pave:metal",
     "generatedAt": "2026-07-29T14:56:03.684Z",
-    "sourcePhotoName": "sweep-hublot.glb",
-    "collection": "watches"
+    "sourcePhotoName": "sweep-hublot.glb"
   }
 ]
