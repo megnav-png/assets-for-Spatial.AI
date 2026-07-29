@@ -500,5 +500,31 @@
     "instanceKey": "dillano-emerald-lust-necklace:gem",
     "generatedAt": "2026-07-29T02:34:03.701Z",
     "sourcePhotoName": "emerald-lust-necklace.jpg"
+  },
+  {
+    "id": "dillano-sapphire-majesty-ring",
+    "displayName": "Sapphire Majesty Ring",
+    "modelPath": "assets/models/dillano-sapphire-majesty-ring.glb",
+    "scale": 0.035035994088382726,
+    "realWorldSizeMeters": 0.035,
+    "textured": true,
+    "triangles": 20033,
+    "bounds": {
+      "min": [
+        -0.210591197,
+        -0.499274999,
+        -0.399061084
+      ],
+      "max": [
+        0.210561663,
+        0.499697655,
+        0.39885655
+      ]
+    },
+    "materialFamily": "gem",
+    "triangleBudget": 20000,
+    "instanceKey": "dillano-sapphire-majesty-ring:gem",
+    "generatedAt": "2026-07-29T02:34:15.938Z",
+    "sourcePhotoName": "sapphire-majesty-ring.jpg"
   }
 ]
