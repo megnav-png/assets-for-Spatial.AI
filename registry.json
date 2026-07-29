@@ -633,7 +633,7 @@
   },
   {
     "id": "dillano-ruby-hoops-compress-test",
-    "displayName": "Wheel of Ruby & Diamond Hoops (compressed test)",
+    "displayName": "Wheel of Ruby & Diamond Hoops",
     "modelPath": "assets/models/dillano-ruby-hoops-compress-test.glb",
     "scale": 0.04738188704275693,
     "realWorldSizeMeters": 0.09,
