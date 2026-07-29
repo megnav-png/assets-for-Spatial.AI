@@ -397,32 +397,6 @@
     "sourcePhotoName": "Watch MK.glb"
   },
   {
-    "id": "dillano-emerald-lust-necklace",
-    "displayName": "Emerald Lust Necklace",
-    "modelPath": "assets/models/dillano-emerald-lust-necklace.glb",
-    "scale": 0.16007229729336175,
-    "realWorldSizeMeters": 0.16,
-    "textured": true,
-    "triangles": 20252,
-    "bounds": {
-      "min": [
-        -0.416570157,
-        -0.0666544661,
-        -0.499659985
-      ],
-      "max": [
-        0.416595519,
-        0.0674206018,
-        0.499888361
-      ]
-    },
-    "materialFamily": "gem",
-    "triangleBudget": 20000,
-    "instanceKey": "dillano-emerald-lust-necklace:gem",
-    "generatedAt": "2026-07-29T02:34:03.701Z",
-    "sourcePhotoName": "emerald-lust-necklace.jpg"
-  },
-  {
     "id": "dillano-sapphire-majesty-ring",
     "displayName": "Sapphire Majesty Ring",
     "modelPath": "assets/models/dillano-sapphire-majesty-ring.glb",
