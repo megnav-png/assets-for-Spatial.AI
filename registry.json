@@ -729,6 +729,7 @@
     "triangleBudget": 90000,
     "instanceKey": "rolex-datejust-ice:metal",
     "generatedAt": "2026-07-29T12:47:29.424Z",
-    "sourcePhotoName": "mesh-silver2.glb"
+    "sourcePhotoName": "mesh-silver2.glb",
+    "collection": "watches"
   }
 ]
