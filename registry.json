@@ -604,31 +604,5 @@
     "instanceKey": "dillano-tanzanite-bracelet-mv-test:gem",
     "generatedAt": "2026-07-29T03:23:12.657Z",
     "sourcePhotoName": "tanzanite-lumiere-bracelet.png, tanzanite-view3.png"
-  },
-  {
-    "id": "dillano-sapphire-ring-mv-prompt-test",
-    "displayName": "Sapphire Majesty Ring (prompt test)",
-    "modelPath": "assets/models/dillano-sapphire-ring-mv-prompt-test.glb",
-    "scale": 0.035054596482383425,
-    "realWorldSizeMeters": 0.035,
-    "textured": true,
-    "triangles": 20015,
-    "bounds": {
-      "min": [
-        -0.499642521,
-        -0.433362246,
-        -0.393696964
-      ],
-      "max": [
-        0.498800009,
-        0.433355629,
-        0.3927297
-      ]
-    },
-    "materialFamily": "gem",
-    "triangleBudget": 20000,
-    "instanceKey": "dillano-sapphire-ring-mv-prompt-test:gem",
-    "generatedAt": "2026-07-29T04:08:36.166Z",
-    "sourcePhotoName": "sapphire-majesty-ring.jpg, sapphire-view2.jpg"
   }
 ]
