@@ -653,5 +653,30 @@
     "instanceKey": "dillano-emerald-necklace-meshy-test:gem",
     "generatedAt": "2026-07-29T11:39:04.790Z",
     "sourcePhotoName": "emerald-lust-necklace.jpg"
+  },
+  {
+    "id": "un-torpilleur-white",
+    "displayName": "Ulysse Nardin Marine Torpilleur",
+    "modelPath": "assets/models/un-torpilleur-white.glb",
+    "scale": 0.11587941819080522,
+    "realWorldSizeMeters": 0.22,
+    "triangles": 89998,
+    "bounds": {
+      "min": [
+        -0.612990022,
+        -0.950237095,
+        -0.881583095
+      ],
+      "max": [
+        0.611200988,
+        0.948288143,
+        0.881925106
+      ]
+    },
+    "materialFamily": "metal",
+    "triangleBudget": 90000,
+    "instanceKey": "un-torpilleur-white:metal",
+    "generatedAt": "2026-07-29T12:00:55.411Z",
+    "sourcePhotoName": "mesh-unwhite.glb"
   }
 ]
