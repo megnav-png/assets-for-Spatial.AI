@@ -677,6 +677,7 @@
     "triangleBudget": 90000,
     "instanceKey": "rolex-yachtmaster-blue:metal",
     "generatedAt": "2026-07-29T12:05:38.815Z",
-    "sourcePhotoName": "mesh-sea.glb"
+    "sourcePhotoName": "mesh-sea.glb",
+    "collection": "watches"
   }
 ]
