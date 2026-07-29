@@ -752,10 +752,10 @@
       ]
     },
     "materialFamily": "metal",
+    "collection": "watches",
     "triangleBudget": 90000,
     "instanceKey": "rolex-datejust-ice:metal",
     "generatedAt": "2026-07-29T12:20:27.932Z",
-    "sourcePhotoName": "mesh-silver.glb",
-    "collection": "watches"
+    "sourcePhotoName": "mesh-silver.glb"
   }
 ]
