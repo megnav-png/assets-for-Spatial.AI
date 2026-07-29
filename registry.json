@@ -707,32 +707,6 @@
     "sourcePhotoName": "mesh-unred.glb"
   },
   {
-    "id": "rolex-datejust-ice",
-    "displayName": "Rolex Datejust",
-    "modelPath": "assets/models/rolex-datejust-ice.glb",
-    "scale": 0.11584750663904815,
-    "realWorldSizeMeters": 0.22,
-    "triangles": 90001,
-    "bounds": {
-      "min": [
-        -0.509267986,
-        -0.950349092,
-        -0.932491124
-      ],
-      "max": [
-        0.505792975,
-        0.948699117,
-        0.931635141
-      ]
-    },
-    "materialFamily": "metal",
-    "collection": "watches",
-    "triangleBudget": 90000,
-    "instanceKey": "rolex-datejust-ice:metal",
-    "generatedAt": "2026-07-29T12:47:29.424Z",
-    "sourcePhotoName": "mesh-silver2.glb"
-  },
-  {
     "id": "hublot-classic-pave",
     "displayName": "Hublot Classic Fusion Pavé",
     "modelPath": "assets/models/hublot-classic-pave.glb",
@@ -778,10 +752,10 @@
       ]
     },
     "materialFamily": "metal",
+    "collection": "watches",
     "triangleBudget": 90000,
     "instanceKey": "rado-centrix-openheart:metal",
     "generatedAt": "2026-07-29T12:57:41.651Z",
-    "sourcePhotoName": "mesh-rado.glb",
-    "collection": "watches"
+    "sourcePhotoName": "mesh-rado.glb"
   }
 ]
