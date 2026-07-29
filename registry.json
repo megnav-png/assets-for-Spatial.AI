@@ -632,32 +632,6 @@
     "sourcePhotoName": "Rolex Light.glb"
   },
   {
-    "id": "dillano-ruby-hoops-meshy4k-test",
-    "displayName": "Wheel of Ruby & Diamond Hoops",
-    "modelPath": "assets/models/dillano-ruby-hoops-meshy4k-test.glb",
-    "scale": 0.04738188703480253,
-    "realWorldSizeMeters": 0.09,
-    "textured": true,
-    "triangles": 110000,
-    "bounds": {
-      "min": [
-        -0.95074302,
-        -0.946515203,
-        -0.37913096
-      ],
-      "max": [
-        0.948716998,
-        0.949005187,
-        0.375443161
-      ]
-    },
-    "materialFamily": "gem",
-    "triangleBudget": 110000,
-    "instanceKey": "dillano-ruby-hoops-meshy4k-test:gem",
-    "generatedAt": "2026-07-29T05:49:18.667Z",
-    "sourcePhotoName": "wheel-of-ruby-diamond-hoops.png"
-  },
-  {
     "id": "dillano-ruby-hoops-compress-test",
     "displayName": "Wheel of Ruby & Diamond Hoops (compressed test)",
     "modelPath": "assets/models/dillano-ruby-hoops-compress-test.glb",
