@@ -630,31 +630,5 @@
     "instanceKey": "watch-un-torpilleur:metal",
     "generatedAt": "2026-07-29T04:40:35.949Z",
     "sourcePhotoName": "UN NOCTURNE.glb"
-  },
-  {
-    "id": "dillano-emerald-necklace-prompt-test",
-    "displayName": "Emerald Lust Necklace (prompt test)",
-    "modelPath": "assets/models/dillano-emerald-necklace-prompt-test.glb",
-    "scale": 0.16010324465866033,
-    "realWorldSizeMeters": 0.16,
-    "textured": true,
-    "triangles": 21980,
-    "bounds": {
-      "min": [
-        -0.398937553,
-        -0.0700543821,
-        -0.499643743
-      ],
-      "max": [
-        0.398392707,
-        0.0698603988,
-        0.499711394
-      ]
-    },
-    "materialFamily": "gem",
-    "triangleBudget": 20000,
-    "instanceKey": "dillano-emerald-necklace-prompt-test:gem",
-    "generatedAt": "2026-07-29T04:47:34.823Z",
-    "sourcePhotoName": "emerald-lust-necklace.jpg"
   }
 ]
