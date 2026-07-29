@@ -606,32 +606,6 @@
     "sourcePhotoName": "tanzanite-lumiere-bracelet.png, tanzanite-view3.png"
   },
   {
-    "id": "dillano-sapphire-majesty-ring-mv",
-    "displayName": "Sapphire Majesty Ring",
-    "modelPath": "assets/models/dillano-sapphire-majesty-ring-mv.glb",
-    "scale": 0.03502617902154103,
-    "realWorldSizeMeters": 0.035,
-    "textured": true,
-    "triangles": 19973,
-    "bounds": {
-      "min": [
-        -0.499446332,
-        -0.428757012,
-        -0.411929429
-      ],
-      "max": [
-        0.499806255,
-        0.42881462,
-        0.411678195
-      ]
-    },
-    "materialFamily": "gem",
-    "triangleBudget": 20000,
-    "instanceKey": "dillano-sapphire-majesty-ring-mv:gem",
-    "generatedAt": "2026-07-29T03:38:44.284Z",
-    "sourcePhotoName": "sapphire-majesty-ring.jpg, sapphire-view2.jpg"
-  },
-  {
     "id": "dillano-ruby-diamond-hoops-mv",
     "displayName": "Wheel of Ruby & Diamond Hoops",
     "modelPath": "assets/models/dillano-ruby-diamond-hoops-mv.glb",
