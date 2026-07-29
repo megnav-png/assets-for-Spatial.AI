@@ -474,32 +474,6 @@
     "sourcePhotoName": "blushing-cascade.jpg"
   },
   {
-    "id": "hublot-classic-pave",
-    "displayName": "Hublot Classic Fusion Pavé",
-    "modelPath": "assets/models/hublot-classic-pave.glb",
-    "scale": 0.116088112430805,
-    "realWorldSizeMeters": 0.22,
-    "triangles": 90003,
-    "bounds": {
-      "min": [
-        -0.533886015,
-        -0.950346112,
-        -0.887577116
-      ],
-      "max": [
-        0.532150984,
-        0.944766104,
-        0.884835124
-      ]
-    },
-    "materialFamily": "metal",
-    "collection": "watches",
-    "triangleBudget": 90000,
-    "instanceKey": "hublot-classic-pave:metal",
-    "generatedAt": "2026-07-29T12:52:47.192Z",
-    "sourcePhotoName": "mesh-hublot.glb"
-  },
-  {
     "id": "rado-centrix-openheart",
     "displayName": "Rado Centrix Open Heart",
     "modelPath": "assets/models/rado-centrix-openheart.glb",
@@ -648,10 +622,10 @@
       ]
     },
     "materialFamily": "metal",
+    "collection": "watches",
     "triangleBudget": 500000,
     "instanceKey": "un-diver-rosegold:metal",
     "generatedAt": "2026-07-29T14:47:29.995Z",
-    "sourcePhotoName": "sweep-unred.glb",
-    "collection": "watches"
+    "sourcePhotoName": "sweep-unred.glb"
   }
 ]
