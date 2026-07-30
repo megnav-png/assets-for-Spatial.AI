@@ -422,32 +422,6 @@
     "sourcePhotoName": "blushing-cascade.jpg"
   },
   {
-    "id": "un-torpilleur-white",
-    "displayName": "Ulysse Nardin Marine Torpilleur",
-    "modelPath": "assets/models/un-torpilleur-white.glb",
-    "scale": 0.11583160102786436,
-    "realWorldSizeMeters": 0.22,
-    "triangles": 499990,
-    "bounds": {
-      "min": [
-        -0.638859987,
-        -0.950634003,
-        -0.848151982
-      ],
-      "max": [
-        0.635730028,
-        0.948674977,
-        0.845367014
-      ]
-    },
-    "materialFamily": "metal",
-    "collection": "watches",
-    "triangleBudget": 500000,
-    "instanceKey": "un-torpilleur-white:metal",
-    "generatedAt": "2026-07-29T14:22:20.388Z",
-    "sourcePhotoName": "sweep-unwhite.glb"
-  },
-  {
     "id": "rolex-yachtmaster-blue",
     "displayName": "Rolex Yacht-Master II",
     "modelPath": "assets/models/rolex-yachtmaster-blue.glb",
