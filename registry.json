@@ -351,6 +351,13 @@
     "scale": 0.035035994088382726,
     "realWorldSizeMeters": 0.035,
     "textured": true,
+    "lighting": {
+      "exposure": 0.95,
+      "keyIntensity": 1,
+      "rimIntensity": 1.2,
+      "envIntensity": 1.15,
+      "bloomStrength": 0.5
+    },
     "triangles": 20033,
     "bounds": {
       "min": [
@@ -368,14 +375,7 @@
     "triangleBudget": 20000,
     "instanceKey": "dillano-sapphire-majesty-ring:gem",
     "generatedAt": "2026-07-29T02:34:15.938Z",
-    "sourcePhotoName": "sapphire-majesty-ring.jpg",
-    "lighting": {
-      "exposure": 0.95,
-      "keyIntensity": 1,
-      "rimIntensity": 1.2,
-      "envIntensity": 1.15,
-      "bloomStrength": 0.5
-    }
+    "sourcePhotoName": "sapphire-majesty-ring.jpg"
   },
   {
     "id": "dillano-ruby-hoops-compress-test",
@@ -602,31 +602,5 @@
     "instanceKey": "bracelet-3d-model-test:gem",
     "generatedAt": "2026-07-30T13:21:24.705Z",
     "sourcePhotoName": "bracelet 3d model test.glb"
-  },
-  {
-    "id": "hublot-pave-diamond-bracelet",
-    "displayName": "Hublot Pavé Diamond",
-    "modelPath": "assets/models/hublot-pave-diamond-bracelet.glb",
-    "scale": 0.11582708651882391,
-    "realWorldSizeMeters": 0.22,
-    "triangles": 500024,
-    "bounds": {
-      "min": [
-        -0.651557028,
-        -0.950679004,
-        -0.827727973
-      ],
-      "max": [
-        0.650138021,
-        0.948704004,
-        0.834084988
-      ]
-    },
-    "materialFamily": "metal",
-    "collection": "watches",
-    "triangleBudget": 500000,
-    "instanceKey": "hublot-pave-diamond-bracelet:metal",
-    "generatedAt": "2026-07-30T15:53:41.210Z",
-    "sourcePhotoName": "mesh-hublot-pave-v2.glb"
   }
 ]
