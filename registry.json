@@ -728,5 +728,30 @@
     "instanceKey": "meshy-steel:metal",
     "generatedAt": "2026-07-29T09:36:26.815Z",
     "sourcePhotoName": "meshy-steel.glb"
+  },
+  {
+    "id": "meshy-diamond",
+    "displayName": "Diamond Bezel (Meshy 8K)",
+    "modelPath": "assets/models/meshy-diamond.glb",
+    "scale": 0.10531624570787328,
+    "realWorldSizeMeters": 0.2,
+    "triangles": 89998,
+    "bounds": {
+      "min": [
+        -0.512923002,
+        -0.950317144,
+        -0.863057137
+      ],
+      "max": [
+        0.510830998,
+        0.948725104,
+        0.861457109
+      ]
+    },
+    "materialFamily": "metal",
+    "triangleBudget": 90000,
+    "instanceKey": "meshy-diamond:metal",
+    "generatedAt": "2026-07-29T09:31:43.954Z",
+    "sourcePhotoName": "meshy-diamond.glb"
   }
 ]
