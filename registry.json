@@ -447,32 +447,6 @@
     "sourcePhotoName": "emerald-lust 2.glb"
   },
   {
-    "id": "rado-centrix-openheart",
-    "displayName": "Rado Centrix Open Heart",
-    "modelPath": "assets/models/rado-centrix-openheart.glb",
-    "scale": 0.10529635345687026,
-    "realWorldSizeMeters": 0.2,
-    "triangles": 475828,
-    "bounds": {
-      "min": [
-        -0.600935996,
-        -0.950630009,
-        -0.835922003
-      ],
-      "max": [
-        0.598788023,
-        0.948771,
-        0.834007025
-      ]
-    },
-    "materialFamily": "metal",
-    "collection": "watches",
-    "triangleBudget": 500000,
-    "instanceKey": "rado-centrix-openheart:metal",
-    "generatedAt": "2026-07-29T15:04:47.632Z",
-    "sourcePhotoName": "sweep-rado.glb"
-  },
-  {
     "id": "dillano-bangle-cd-review",
     "displayName": "Diamond Lattice Bangle (CD review)",
     "modelPath": "assets/models/dillano-bangle-cd-review.glb",
