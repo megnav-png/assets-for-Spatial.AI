@@ -619,6 +619,7 @@
     "triangleBudget": 500000,
     "instanceKey": "hublot-pave-diamond-bracelet:metal",
     "generatedAt": "2026-07-30T15:53:41.210Z",
-    "sourcePhotoName": "mesh-hublot-pave-v2.glb"
+    "sourcePhotoName": "mesh-hublot-pave-v2.glb",
+    "collection": "watches"
   }
 ]
