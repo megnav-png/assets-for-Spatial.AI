@@ -595,5 +595,30 @@
     "instanceKey": "bracelet-3d-model-test:gem",
     "generatedAt": "2026-07-30T13:21:24.705Z",
     "sourcePhotoName": "bracelet 3d model test.glb"
+  },
+  {
+    "id": "hublot-pave-diamond-bracelet",
+    "displayName": "Hublot Pavé Diamond",
+    "modelPath": "assets/models/hublot-pave-diamond-bracelet.glb",
+    "scale": 0.11582708651882391,
+    "realWorldSizeMeters": 0.22,
+    "triangles": 500024,
+    "bounds": {
+      "min": [
+        -0.651557028,
+        -0.950679004,
+        -0.827727973
+      ],
+      "max": [
+        0.650138021,
+        0.948704004,
+        0.834084988
+      ]
+    },
+    "materialFamily": "metal",
+    "triangleBudget": 500000,
+    "instanceKey": "hublot-pave-diamond-bracelet:metal",
+    "generatedAt": "2026-07-30T15:53:41.210Z",
+    "sourcePhotoName": "mesh-hublot-pave-v2.glb"
   }
 ]
