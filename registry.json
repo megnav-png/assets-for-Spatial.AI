@@ -652,5 +652,30 @@
     "instanceKey": "dillano-bangle-cd-v2-test:gem",
     "generatedAt": "2026-07-30T21:41:37.448Z",
     "sourcePhotoName": "diamond-lattice-bangle-cd-v2.glb"
+  },
+  {
+    "id": "hublot-pave-diamond-bracelet",
+    "displayName": "Hublot Pavé Diamond",
+    "modelPath": "assets/models/hublot-pave-diamond-bracelet.glb",
+    "scale": 0.11583239348772045,
+    "realWorldSizeMeters": 0.22,
+    "triangles": 500024,
+    "bounds": {
+      "min": [
+        -0.651525974,
+        -0.950623989,
+        -0.827670991
+      ],
+      "max": [
+        0.650090992,
+        0.948671997,
+        0.834084988
+      ]
+    },
+    "materialFamily": "metal",
+    "triangleBudget": 500000,
+    "instanceKey": "hublot-pave-diamond-bracelet:metal",
+    "generatedAt": "2026-07-30T21:54:37.858Z",
+    "sourcePhotoName": "hublot-smoothed-py.glb"
   }
 ]
