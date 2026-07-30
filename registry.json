@@ -809,7 +809,7 @@
     "displayName": "Ulysse Nardin Marine Torpilleur",
     "modelPath": "assets/models/un-torpilleur-v2.glb",
     "scale": 0.022114748505776508,
-    "realWorldSizeMeters": 0.042,
+    "realWorldSizeMeters": 0.22,
     "triangles": 140031,
     "bounds": {
       "min": [
@@ -876,10 +876,10 @@
       ]
     },
     "materialFamily": "metal",
+    "collection": "watches",
     "triangleBudget": 45000,
     "instanceKey": "rado-centrix-v2:metal",
     "generatedAt": "2026-07-30T15:12:18.743Z",
-    "sourcePhotoName": "WATCH-rado.glb",
-    "collection": "watches"
+    "sourcePhotoName": "WATCH-rado.glb"
   }
 ]
