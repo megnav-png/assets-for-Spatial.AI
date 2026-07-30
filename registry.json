@@ -850,11 +850,11 @@
       ]
     },
     "materialFamily": "metal",
+    "collection": "watches",
     "triangleBudget": 45000,
     "instanceKey": "hublot-pave-v2:metal",
     "generatedAt": "2026-07-30T15:12:17.765Z",
-    "sourcePhotoName": "WATCH-hublot.glb",
-    "collection": "watches"
+    "sourcePhotoName": "WATCH-hublot.glb"
   },
   {
     "id": "rado-centrix-v2",
@@ -879,6 +879,7 @@
     "triangleBudget": 45000,
     "instanceKey": "rado-centrix-v2:metal",
     "generatedAt": "2026-07-30T15:12:18.743Z",
-    "sourcePhotoName": "WATCH-rado.glb"
+    "sourcePhotoName": "WATCH-rado.glb",
+    "collection": "watches"
   }
 ]
