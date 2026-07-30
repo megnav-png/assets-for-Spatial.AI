@@ -422,32 +422,6 @@
     "sourcePhotoName": "blushing-cascade.jpg"
   },
   {
-    "id": "rolex-daytona-gold",
-    "displayName": "Rolex Cosmograph Daytona",
-    "modelPath": "assets/models/rolex-daytona-gold.glb",
-    "scale": 0.11584520144516385,
-    "realWorldSizeMeters": 0.22,
-    "triangles": 499974,
-    "bounds": {
-      "min": [
-        -0.627894998,
-        -0.950540006,
-        -0.848031998
-      ],
-      "max": [
-        0.625990987,
-        0.948545992,
-        0.848801017
-      ]
-    },
-    "materialFamily": "metal",
-    "collection": "watches",
-    "triangleBudget": 500000,
-    "instanceKey": "rolex-daytona-gold:metal",
-    "generatedAt": "2026-07-29T14:39:39.859Z",
-    "sourcePhotoName": "sweep-softblue.glb"
-  },
-  {
     "id": "dillano-emerald-necklace-cd",
     "displayName": "Emerald Lust Necklace",
     "modelPath": "assets/models/dillano-emerald-necklace-cd.glb",
