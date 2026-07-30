@@ -703,5 +703,30 @@
     "instanceKey": "meshy-daytona:metal",
     "generatedAt": "2026-07-29T09:26:47.000Z",
     "sourcePhotoName": "meshy-daytona.glb"
+  },
+  {
+    "id": "meshy-steel",
+    "displayName": "Fossil Chronograph (Meshy 8K)",
+    "modelPath": "assets/models/meshy-steel.glb",
+    "scale": 0.11577838284636574,
+    "realWorldSizeMeters": 0.22,
+    "triangles": 89996,
+    "bounds": {
+      "min": [
+        -0.95165199,
+        -0.5112831,
+        -0.901557148
+      ],
+      "max": [
+        0.948530018,
+        0.508633971,
+        0.897341073
+      ]
+    },
+    "materialFamily": "metal",
+    "triangleBudget": 90000,
+    "instanceKey": "meshy-steel:metal",
+    "generatedAt": "2026-07-29T09:36:26.815Z",
+    "sourcePhotoName": "meshy-steel.glb"
   }
 ]
