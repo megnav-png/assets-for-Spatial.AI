@@ -753,5 +753,30 @@
     "instanceKey": "meshy-diamond:metal",
     "generatedAt": "2026-07-29T09:31:43.954Z",
     "sourcePhotoName": "meshy-diamond.glb"
+  },
+  {
+    "id": "uc-white-2",
+    "displayName": "uc white 2",
+    "modelPath": "assets/models/uc-white-2.glb",
+    "scale": 0.42995907419667484,
+    "realWorldSizeMeters": 0.42,
+    "triangles": 20044,
+    "bounds": {
+      "min": [
+        -0.281173706,
+        0.00164794922,
+        -0.373214722
+      ],
+      "max": [
+        0.281173706,
+        0.978485107,
+        0.375228882
+      ]
+    },
+    "materialFamily": "metal",
+    "triangleBudget": 20000,
+    "instanceKey": "uc-white-2:metal",
+    "generatedAt": "2026-07-29T06:48:39.236Z",
+    "sourcePhotoName": "luxury wristwatch 3d model.glb"
   }
 ]
