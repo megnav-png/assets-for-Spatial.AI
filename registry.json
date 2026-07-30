@@ -623,10 +623,35 @@
       ]
     },
     "materialFamily": "metal",
+    "collection": "watches",
     "triangleBudget": 500000,
     "instanceKey": "hublot-pave-diamond-bracelet:metal",
     "generatedAt": "2026-07-30T20:35:12.536Z",
-    "sourcePhotoName": "hublot-composited-v2.glb",
-    "collection": "watches"
+    "sourcePhotoName": "hublot-composited-v2.glb"
+  },
+  {
+    "id": "dillano-diamond-lattice-bangle",
+    "displayName": "Diamond Lattice Bangle",
+    "modelPath": "assets/models/dillano-diamond-lattice-bangle.glb",
+    "scale": 0.03422032692095456,
+    "realWorldSizeMeters": 0.065,
+    "triangles": 120034,
+    "bounds": {
+      "min": [
+        -0.9141530990600586,
+        -0.9505144953727722,
+        -0.4363623261451721
+      ],
+      "max": [
+        0.9120287299156189,
+        0.9489413499832153,
+        0.43434572219848633
+      ]
+    },
+    "materialFamily": "metal",
+    "triangleBudget": 45000,
+    "instanceKey": "dillano-diamond-lattice-bangle:metal",
+    "generatedAt": "2026-07-30T20:40:26.334Z",
+    "sourcePhotoName": "diamond-lattice-bangle-final.glb"
   }
 ]
