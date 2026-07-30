@@ -629,31 +629,6 @@
     "sourcePhotoName": "diamond-lattice-bangle-final.glb"
   },
   {
-    "id": "dillano-bangle-cd-v2-test",
-    "displayName": "Diamond Lattice Bangle (CD v2 test)",
-    "modelPath": "assets/models/dillano-bangle-cd-v2-test.glb",
-    "scale": 1.0541019906240936,
-    "realWorldSizeMeters": 0.065,
-    "triangles": 119576,
-    "bounds": {
-      "min": [
-        -0.0306520145,
-        -0.026711192,
-        -0.0125122573
-      ],
-      "max": [
-        0.0310118478,
-        0.0314328261,
-        0.0129166516
-      ]
-    },
-    "materialFamily": "gem",
-    "triangleBudget": 150000,
-    "instanceKey": "dillano-bangle-cd-v2-test:gem",
-    "generatedAt": "2026-07-30T21:41:37.448Z",
-    "sourcePhotoName": "diamond-lattice-bangle-cd-v2.glb"
-  },
-  {
     "id": "hublot-pave-diamond-bracelet",
     "displayName": "Hublot Pavé Diamond",
     "modelPath": "assets/models/hublot-pave-diamond-bracelet.glb",
@@ -673,10 +648,10 @@
       ]
     },
     "materialFamily": "metal",
+    "collection": "watches",
     "triangleBudget": 500000,
     "instanceKey": "hublot-pave-diamond-bracelet:metal",
     "generatedAt": "2026-07-30T21:54:37.858Z",
-    "sourcePhotoName": "hublot-smoothed-py.glb",
-    "collection": "watches"
+    "sourcePhotoName": "hublot-smoothed-py.glb"
   }
 ]
