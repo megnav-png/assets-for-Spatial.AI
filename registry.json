@@ -803,31 +803,5 @@
     "instanceKey": "bracelet-3d-model-test:gem",
     "generatedAt": "2026-07-30T13:21:24.705Z",
     "sourcePhotoName": "bracelet 3d model test.glb"
-  },
-  {
-    "id": "rado-centrix-v2",
-    "displayName": "Rado Centrix Open Heart",
-    "modelPath": "assets/models/rado-centrix-v2.glb",
-    "scale": 0.0221131613124925,
-    "realWorldSizeMeters": 0.22,
-    "triangles": 139996,
-    "bounds": {
-      "min": [
-        -0.5342008471488953,
-        -0.9506481885910034,
-        -0.8093277812004089
-      ],
-      "max": [
-        0.5319775938987732,
-        0.9486731886863708,
-        0.8064123392105103
-      ]
-    },
-    "materialFamily": "metal",
-    "collection": "watches",
-    "triangleBudget": 45000,
-    "instanceKey": "rado-centrix-v2:metal",
-    "generatedAt": "2026-07-30T15:12:18.743Z",
-    "sourcePhotoName": "WATCH-rado.glb"
   }
 ]
