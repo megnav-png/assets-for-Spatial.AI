@@ -447,32 +447,6 @@
     "sourcePhotoName": "emerald-lust 2.glb"
   },
   {
-    "id": "hublot-classic-pave",
-    "displayName": "Hublot Classic Fusion Pavé",
-    "modelPath": "assets/models/hublot-classic-pave.glb",
-    "scale": 0.11583208812653951,
-    "realWorldSizeMeters": 0.22,
-    "triangles": 333332,
-    "bounds": {
-      "min": [
-        -0.619153976,
-        -0.950514019,
-        -0.828531027
-      ],
-      "max": [
-        0.616994023,
-        0.948786974,
-        0.833293021
-      ]
-    },
-    "materialFamily": "metal",
-    "collection": "watches",
-    "triangleBudget": 500000,
-    "instanceKey": "hublot-classic-pave:metal",
-    "generatedAt": "2026-07-29T14:56:03.684Z",
-    "sourcePhotoName": "sweep-hublot.glb"
-  },
-  {
     "id": "rado-centrix-openheart",
     "displayName": "Rado Centrix Open Heart",
     "modelPath": "assets/models/rado-centrix-openheart.glb",
