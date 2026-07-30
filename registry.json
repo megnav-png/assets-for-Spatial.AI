@@ -861,7 +861,7 @@
     "displayName": "Rado Centrix Open Heart",
     "modelPath": "assets/models/rado-centrix-v2.glb",
     "scale": 0.0221131613124925,
-    "realWorldSizeMeters": 0.042,
+    "realWorldSizeMeters": 0.22,
     "triangles": 139996,
     "bounds": {
       "min": [
