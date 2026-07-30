@@ -805,32 +805,6 @@
     "sourcePhotoName": "bracelet 3d model test.glb"
   },
   {
-    "id": "hublot-pave-v2",
-    "displayName": "Hublot Classic Fusion Pave",
-    "modelPath": "assets/models/hublot-pave-v2.glb",
-    "scale": 0.022115766039415757,
-    "realWorldSizeMeters": 0.22,
-    "triangles": 140008,
-    "bounds": {
-      "min": [
-        -0.6132928133010864,
-        -0.9505862593650818,
-        -0.809762716293335
-      ],
-      "max": [
-        0.6111109852790833,
-        0.9485114216804504,
-        0.8077484369277954
-      ]
-    },
-    "materialFamily": "metal",
-    "collection": "watches",
-    "triangleBudget": 45000,
-    "instanceKey": "hublot-pave-v2:metal",
-    "generatedAt": "2026-07-30T15:12:17.765Z",
-    "sourcePhotoName": "WATCH-hublot.glb"
-  },
-  {
     "id": "rado-centrix-v2",
     "displayName": "Rado Centrix Open Heart",
     "modelPath": "assets/models/rado-centrix-v2.glb",
