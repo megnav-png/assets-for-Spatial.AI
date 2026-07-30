@@ -805,32 +805,6 @@
     "sourcePhotoName": "bracelet 3d model test.glb"
   },
   {
-    "id": "un-torpilleur-v2",
-    "displayName": "Ulysse Nardin Marine Torpilleur",
-    "modelPath": "assets/models/un-torpilleur-v2.glb",
-    "scale": 0.022114748505776508,
-    "realWorldSizeMeters": 0.22,
-    "triangles": 140031,
-    "bounds": {
-      "min": [
-        -0.6491595506668091,
-        -0.9505533576011658,
-        -0.8723817467689514
-      ],
-      "max": [
-        0.6393463015556335,
-        0.9486317038536072,
-        0.8703548312187195
-      ]
-    },
-    "materialFamily": "metal",
-    "collection": "watches",
-    "triangleBudget": 45000,
-    "instanceKey": "un-torpilleur-v2:metal",
-    "generatedAt": "2026-07-30T15:12:17.259Z",
-    "sourcePhotoName": "WATCH-un2.glb"
-  },
-  {
     "id": "hublot-pave-v2",
     "displayName": "Hublot Classic Fusion Pave",
     "modelPath": "assets/models/hublot-pave-v2.glb",
