@@ -368,7 +368,14 @@
     "triangleBudget": 20000,
     "instanceKey": "dillano-sapphire-majesty-ring:gem",
     "generatedAt": "2026-07-29T02:34:15.938Z",
-    "sourcePhotoName": "sapphire-majesty-ring.jpg"
+    "sourcePhotoName": "sapphire-majesty-ring.jpg",
+    "lighting": {
+      "exposure": 0.95,
+      "keyIntensity": 1,
+      "rimIntensity": 1.2,
+      "envIntensity": 1.15,
+      "bloomStrength": 0.5
+    }
   },
   {
     "id": "dillano-ruby-hoops-compress-test",
@@ -616,10 +623,10 @@
       ]
     },
     "materialFamily": "metal",
+    "collection": "watches",
     "triangleBudget": 500000,
     "instanceKey": "hublot-pave-diamond-bracelet:metal",
     "generatedAt": "2026-07-30T15:53:41.210Z",
-    "sourcePhotoName": "mesh-hublot-pave-v2.glb",
-    "collection": "watches"
+    "sourcePhotoName": "mesh-hublot-pave-v2.glb"
   }
 ]
