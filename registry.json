@@ -678,5 +678,30 @@
     "instanceKey": "dillano-bangle-cd-review:gem",
     "generatedAt": "2026-07-30T07:06:02.911Z",
     "sourcePhotoName": "diamond-lattice-bangle CA review.glb"
+  },
+  {
+    "id": "meshy-daytona",
+    "displayName": "Rolex Daytona (Meshy 8K)",
+    "modelPath": "assets/models/meshy-daytona.glb",
+    "scale": 0.11587191331831997,
+    "realWorldSizeMeters": 0.22,
+    "triangles": 89931,
+    "bounds": {
+      "min": [
+        -0.507809997,
+        -0.950239122,
+        -0.928039134
+      ],
+      "max": [
+        0.505882025,
+        0.948409081,
+        0.926033139
+      ]
+    },
+    "materialFamily": "metal",
+    "triangleBudget": 90000,
+    "instanceKey": "meshy-daytona:metal",
+    "generatedAt": "2026-07-29T09:26:47.000Z",
+    "sourcePhotoName": "meshy-daytona.glb"
   }
 ]
