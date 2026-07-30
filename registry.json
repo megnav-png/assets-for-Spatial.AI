@@ -835,7 +835,7 @@
     "displayName": "Hublot Classic Fusion Pave",
     "modelPath": "assets/models/hublot-pave-v2.glb",
     "scale": 0.022115766039415757,
-    "realWorldSizeMeters": 0.042,
+    "realWorldSizeMeters": 0.22,
     "triangles": 140008,
     "bounds": {
       "min": [
