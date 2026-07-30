@@ -345,32 +345,6 @@
     "sourcePhotoName": "flower ring 3d model.glb"
   },
   {
-    "id": "watch-curren-4",
-    "displayName": "CURREN Chronograph",
-    "modelPath": "assets/models/watch-curren-4.glb",
-    "scale": 0.2246271773449044,
-    "realWorldSizeMeters": 0.22,
-    "triangles": 90082,
-    "bounds": {
-      "min": [
-        -0.301101685,
-        0.0000305175781,
-        -0.415603638
-      ],
-      "max": [
-        0.30128479,
-        0.979431152,
-        0.41557312
-      ]
-    },
-    "materialFamily": "metal",
-    "collection": "watches",
-    "triangleBudget": 90000,
-    "instanceKey": "watch-curren-4:metal",
-    "generatedAt": "2026-07-28T23:03:55.864Z",
-    "sourcePhotoName": "wristwatch 3d model (1).glb"
-  },
-  {
     "id": "watch-mk",
     "displayName": "Michael Kors Chronograph",
     "modelPath": "assets/models/watch-mk.glb",
@@ -876,10 +850,10 @@
       ]
     },
     "materialFamily": "metal",
+    "collection": "watches",
     "triangleBudget": 45000,
     "instanceKey": "rado-centrix-v2:metal",
     "generatedAt": "2026-07-30T15:27:05.228Z",
-    "sourcePhotoName": "WATCH-rado.glb",
-    "collection": "watches"
+    "sourcePhotoName": "WATCH-rado.glb"
   }
 ]
