@@ -827,7 +827,8 @@
     "triangleBudget": 45000,
     "instanceKey": "un-torpilleur-v2:metal",
     "generatedAt": "2026-07-30T15:12:17.259Z",
-    "sourcePhotoName": "WATCH-un2.glb"
+    "sourcePhotoName": "WATCH-un2.glb",
+    "collection": "watches"
   },
   {
     "id": "hublot-pave-v2",
