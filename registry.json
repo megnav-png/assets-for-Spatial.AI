@@ -778,5 +778,30 @@
     "instanceKey": "uc-white-2:metal",
     "generatedAt": "2026-07-29T06:48:39.236Z",
     "sourcePhotoName": "luxury wristwatch 3d model.glb"
+  },
+  {
+    "id": "bracelet-3d-model-test",
+    "displayName": "bracelet 3d model est",
+    "modelPath": "assets/models/bracelet-3d-model-test.glb",
+    "scale": 0.026536925708695668,
+    "realWorldSizeMeters": 0.026,
+    "triangles": 89936,
+    "bounds": {
+      "min": [
+        -0.489303589,
+        0.0000610351562,
+        -0.224525452
+      ],
+      "max": [
+        0.488998413,
+        0.979827881,
+        0.224266052
+      ]
+    },
+    "materialFamily": "gem",
+    "triangleBudget": 90000,
+    "instanceKey": "bracelet-3d-model-test:gem",
+    "generatedAt": "2026-07-30T13:21:24.705Z",
+    "sourcePhotoName": "bracelet 3d model test.glb"
   }
 ]
