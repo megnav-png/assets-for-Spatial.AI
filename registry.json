@@ -653,5 +653,30 @@
     "instanceKey": "rado-centrix-openheart:metal",
     "generatedAt": "2026-07-29T15:04:47.632Z",
     "sourcePhotoName": "sweep-rado.glb"
+  },
+  {
+    "id": "dillano-bangle-cd-review",
+    "displayName": "Diamond Lattice Bangle (CD review)",
+    "modelPath": "assets/models/dillano-bangle-cd-review.glb",
+    "scale": 1.0540866127953055,
+    "realWorldSizeMeters": 0.065,
+    "triangles": 109990,
+    "bounds": {
+      "min": [
+        -0.030653296,
+        -0.0267732199,
+        -0.0125122573
+      ],
+      "max": [
+        0.0310114659,
+        0.031998314,
+        0.0129166516
+      ]
+    },
+    "materialFamily": "gem",
+    "triangleBudget": 110000,
+    "instanceKey": "dillano-bangle-cd-review:gem",
+    "generatedAt": "2026-07-30T07:06:02.911Z",
+    "sourcePhotoName": "diamond-lattice-bangle CA review.glb"
   }
 ]
