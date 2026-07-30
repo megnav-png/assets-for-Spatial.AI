@@ -345,32 +345,6 @@
     "sourcePhotoName": "flower ring 3d model.glb"
   },
   {
-    "id": "watch-mk",
-    "displayName": "Michael Kors Chronograph",
-    "modelPath": "assets/models/watch-mk.glb",
-    "scale": 0.045945036473742276,
-    "realWorldSizeMeters": 0.045,
-    "triangles": 90038,
-    "bounds": {
-      "min": [
-        -0.372924805,
-        0.000213623047,
-        -0.35949707
-      ],
-      "max": [
-        0.37298584,
-        0.979644775,
-        0.359405518
-      ]
-    },
-    "materialFamily": "metal",
-    "collection": "watches",
-    "triangleBudget": 90000,
-    "instanceKey": "watch-mk:metal",
-    "generatedAt": "2026-07-28T23:51:27.085Z",
-    "sourcePhotoName": "Watch MK.glb"
-  },
-  {
     "id": "dillano-sapphire-majesty-ring",
     "displayName": "Sapphire Majesty Ring",
     "modelPath": "assets/models/dillano-sapphire-majesty-ring.glb",
