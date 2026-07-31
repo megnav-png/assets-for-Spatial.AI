@@ -653,5 +653,30 @@
     "instanceKey": "hublot-pave-diamond-bracelet:metal",
     "generatedAt": "2026-07-30T21:54:37.858Z",
     "sourcePhotoName": "hublot-smoothed-py.glb"
+  },
+  {
+    "id": "emerald-estate-necklace",
+    "displayName": "Emerald Estate Necklace",
+    "modelPath": "assets/models/emerald-estate-necklace.glb",
+    "scale": 0.16326854017234882,
+    "realWorldSizeMeters": 0.16,
+    "triangles": 118726,
+    "bounds": {
+      "min": [
+        -0.489959776,
+        0.00152587891,
+        -0.437713742
+      ],
+      "max": [
+        0.490020812,
+        0.761932373,
+        0.438110411
+      ]
+    },
+    "materialFamily": "gem",
+    "triangleBudget": 120000,
+    "instanceKey": "emerald-estate-necklace:gem",
+    "generatedAt": "2026-07-31T05:20:55.955Z",
+    "sourcePhotoName": "emerald-dec.glb"
   }
 ]
