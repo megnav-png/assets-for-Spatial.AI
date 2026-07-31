@@ -677,7 +677,8 @@
     "triangleBudget": 120000,
     "instanceKey": "emerald-estate-necklace:gem",
     "generatedAt": "2026-07-31T05:20:55.955Z",
-    "sourcePhotoName": "emerald-dec.glb"
+    "sourcePhotoName": "emerald-dec.glb",
+    "textured": true
   },
   {
     "id": "nocturne-choker",
