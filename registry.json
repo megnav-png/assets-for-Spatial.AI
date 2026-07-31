@@ -678,5 +678,30 @@
     "instanceKey": "emerald-estate-necklace:gem",
     "generatedAt": "2026-07-31T05:20:55.955Z",
     "sourcePhotoName": "emerald-dec.glb"
+  },
+  {
+    "id": "nocturne-choker",
+    "displayName": "Nocturne Choker",
+    "modelPath": "assets/models/nocturne-choker.glb",
+    "scale": 0.13281285406119028,
+    "realWorldSizeMeters": 0.13,
+    "triangles": 117582,
+    "bounds": {
+      "min": [
+        -0.489746124,
+        0.000434875488,
+        -0.32220456
+      ],
+      "max": [
+        0.489074796,
+        0.222366333,
+        0.321228057
+      ]
+    },
+    "materialFamily": "gem",
+    "triangleBudget": 120000,
+    "instanceKey": "nocturne-choker:gem",
+    "generatedAt": "2026-07-31T05:21:06.864Z",
+    "sourcePhotoName": "nocturne-dec.glb"
   }
 ]
