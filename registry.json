@@ -233,6 +233,15 @@
     "scale": 0.0010002008183199007,
     "realWorldSizeMeters": 0.001,
     "colorHex": "#dbdcdc",
+    "lighting": {
+      "exposure": 1.2,
+      "keyIntensity": 0.9,
+      "rimIntensity": 1.6,
+      "envIntensity": 0.75,
+      "bloomStrength": 0.1,
+      "studioLeftIntensity": 0.35,
+      "studioRightIntensity": 0.35
+    },
     "triangles": 89929,
     "bounds": {
       "min": [
@@ -251,15 +260,7 @@
     "instanceKey": "fire-the-hero:gem",
     "generatedAt": "2026-07-27T18:10:15.009Z",
     "sourcePhotoName": "Angara solitaire.jpg",
-    "lighting": {
-      "exposure": 1.2,
-      "keyIntensity": 0.9,
-      "rimIntensity": 1.6,
-      "envIntensity": 0.75,
-      "bloomStrength": 0.1,
-      "studioLeftIntensity": 0.35,
-      "studioRightIntensity": 0.35
-    }
+    "tintable": true
   },
   {
     "id": "apollo-pendant",
