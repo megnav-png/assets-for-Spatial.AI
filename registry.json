@@ -257,7 +257,8 @@
     "triangleBudget": 90000,
     "instanceKey": "fire-the-hero:gem",
     "generatedAt": "2026-07-27T18:10:15.009Z",
-    "sourcePhotoName": "Angara solitaire.jpg"
+    "sourcePhotoName": "Angara solitaire.jpg",
+    "tintable": true
   },
   {
     "id": "apollo-pendant",
