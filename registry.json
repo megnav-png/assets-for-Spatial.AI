@@ -727,5 +727,31 @@
     "instanceKey": "nocturne-choker:gem",
     "generatedAt": "2026-07-31T05:21:06.864Z",
     "sourcePhotoName": "nocturne-dec.glb"
+  },
+  {
+    "id": "gold-byzantine-chain-tripo-2",
+    "displayName": "Byzantine Gold Chain Necklace",
+    "modelPath": "assets/models/gold-byzantine-chain-tripo-2.glb",
+    "scale": 0.4502217805997888,
+    "realWorldSizeMeters": 0.45,
+    "colorHex": "#dcbc6f",
+    "triangles": 60000,
+    "bounds": {
+      "min": [
+        -0.0916883647,
+        -0.499890029,
+        -0.348338366
+      ],
+      "max": [
+        0.0914499313,
+        0.499617368,
+        0.347895116
+      ]
+    },
+    "materialFamily": "metal",
+    "triangleBudget": 60000,
+    "instanceKey": "gold-byzantine-chain-tripo-2:metal",
+    "generatedAt": "2026-08-02T15:07:02.093Z",
+    "sourcePhotoName": "tripo-chain-fixed.glb"
   }
 ]
