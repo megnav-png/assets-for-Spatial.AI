@@ -133,7 +133,16 @@
     "triangleBudget": 18000,
     "instanceKey": "gold-chain:metal",
     "generatedAt": "2026-07-27T12:57:07.181Z",
-    "sourcePhotoName": "ChatGPT Image Jul 27, 2026, 06_26_03 PM.png"
+    "sourcePhotoName": "ChatGPT Image Jul 27, 2026, 06_26_03 PM.png",
+    "lighting": {
+      "exposure": 1.2,
+      "keyIntensity": 0.9,
+      "rimIntensity": 1.6,
+      "envIntensity": 0.75,
+      "bloomStrength": 0.1,
+      "studioLeftIntensity": 0.35,
+      "studioRightIntensity": 0.35
+    }
   },
   {
     "id": "angara-solitaire",
