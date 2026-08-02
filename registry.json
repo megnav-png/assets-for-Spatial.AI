@@ -115,6 +115,7 @@
     "scale": 0.20044517450095925,
     "realWorldSizeMeters": 0.2,
     "colorHex": "#dcbc6f",
+    "tintable": true,
     "triangles": 18054,
     "bounds": {
       "min": [
@@ -132,8 +133,7 @@
     "triangleBudget": 18000,
     "instanceKey": "gold-chain:metal",
     "generatedAt": "2026-07-27T12:57:07.181Z",
-    "sourcePhotoName": "ChatGPT Image Jul 27, 2026, 06_26_03 PM.png",
-    "tintable": true
+    "sourcePhotoName": "ChatGPT Image Jul 27, 2026, 06_26_03 PM.png"
   },
   {
     "id": "angara-solitaire",
