@@ -132,7 +132,8 @@
     "triangleBudget": 18000,
     "instanceKey": "gold-chain:metal",
     "generatedAt": "2026-07-27T12:57:07.181Z",
-    "sourcePhotoName": "ChatGPT Image Jul 27, 2026, 06_26_03 PM.png"
+    "sourcePhotoName": "ChatGPT Image Jul 27, 2026, 06_26_03 PM.png",
+    "tintable": true
   },
   {
     "id": "angara-solitaire",
@@ -686,6 +687,7 @@
     "modelPath": "assets/models/nocturne-choker.glb",
     "scale": 0.13281285406119028,
     "realWorldSizeMeters": 0.13,
+    "textured": true,
     "triangles": 117582,
     "bounds": {
       "min": [
@@ -703,7 +705,6 @@
     "triangleBudget": 120000,
     "instanceKey": "nocturne-choker:gem",
     "generatedAt": "2026-07-31T05:21:06.864Z",
-    "sourcePhotoName": "nocturne-dec.glb",
-    "textured": true
+    "sourcePhotoName": "nocturne-dec.glb"
   }
 ]
