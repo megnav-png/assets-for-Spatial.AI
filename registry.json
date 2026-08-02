@@ -236,12 +236,10 @@
     "tintable": true,
     "lighting": {
       "exposure": 1.2,
-      "keyIntensity": 0.9,
-      "rimIntensity": 1.6,
-      "envIntensity": 0.75,
-      "bloomStrength": 0.1,
-      "studioLeftIntensity": 0.35,
-      "studioRightIntensity": 0.35
+      "keyIntensity": 2.2,
+      "rimIntensity": 1.2,
+      "envIntensity": 1,
+      "bloomStrength": 0.05
     },
     "triangles": 89929,
     "bounds": {
