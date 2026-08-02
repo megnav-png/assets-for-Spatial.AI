@@ -233,7 +233,6 @@
     "scale": 0.0010002008183199007,
     "realWorldSizeMeters": 0.001,
     "colorHex": "#dbdcdc",
-    "tintable": true,
     "lighting": {
       "exposure": 1.2,
       "keyIntensity": 2.2,
