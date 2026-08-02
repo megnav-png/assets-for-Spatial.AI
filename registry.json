@@ -233,6 +233,7 @@
     "scale": 0.0010002008183199007,
     "realWorldSizeMeters": 0.001,
     "colorHex": "#dbdcdc",
+    "tintable": true,
     "lighting": {
       "exposure": 1.2,
       "keyIntensity": 0.9,
@@ -259,8 +260,7 @@
     "triangleBudget": 90000,
     "instanceKey": "fire-the-hero:gem",
     "generatedAt": "2026-07-27T18:10:15.009Z",
-    "sourcePhotoName": "Angara solitaire.jpg",
-    "tintable": true
+    "sourcePhotoName": "Angara solitaire.jpg"
   },
   {
     "id": "apollo-pendant",
