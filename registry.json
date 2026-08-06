@@ -753,5 +753,30 @@
     "instanceKey": "gold-byzantine-chain-tripo-2:metal",
     "generatedAt": "2026-08-02T15:07:02.093Z",
     "sourcePhotoName": "tripo-chain-fixed.glb"
+  },
+  {
+    "id": "solitaire-analytic-3",
+    "displayName": "Analytic Solitaire v3",
+    "modelPath": "assets/models/solitaire-analytic-3.glb",
+    "scale": 0.8342495501652701,
+    "realWorldSizeMeters": 0.0215,
+    "triangles": 21774,
+    "bounds": {
+      "min": [
+        -0.0106969997,
+        -0.0245455001,
+        -0.00422567362
+      ],
+      "max": [
+        0.0106969997,
+        0.00122616498,
+        0.00422567362
+      ]
+    },
+    "materialFamily": "gem",
+    "triangleBudget": 200000,
+    "instanceKey": "solitaire-analytic-3:gem",
+    "generatedAt": "2026-08-04T07:45:54.605Z",
+    "sourcePhotoName": "solitaire3.glb"
   }
 ]
